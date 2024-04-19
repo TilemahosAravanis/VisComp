@@ -1,0 +1,226 @@
+@font-face {
+    font-family: "icons"; font-display: block;
+    src: url("./icons.ttf?5ed9c19c95de46ede466374c3780cf9a") format("truetype"),
+url("./icons.woff?5ed9c19c95de46ede466374c3780cf9a") format("woff"),
+url("./icons.woff2?5ed9c19c95de46ede466374c3780cf9a") format("woff2"),
+url("./icons.eot?5ed9c19c95de46ede466374c3780cf9a#iefix") format("embedded-opentype");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-social-facebook:before {
+    content: "\21";
+}
+.icon-social-instagram:before {
+    content: "\22";
+}
+.icon-social-linkedin:before {
+    content: "\23";
+}
+.icon-social-twitter:before {
+    content: "\24";
+}
+.icon-social-youtube:before {
+    content: "\25";
+}
+.icon-arrow-breadcrumb:before {
+    content: "\26";
+}
+.icon-check:before {
+    content: "\27";
+}
+.icon-arrow-right:before {
+    content: "\28";
+}
+.icon-arrow-down:before {
+    content: "\29";
+}
+.icon-bookmark:before {
+    content: "\2a";
+}
+.icon-add:before {
+    content: "\2b";
+}
+.icon-remove:before {
+    content: "\30";
+}
+.icon-info-calendar-check:before {
+    content: "\31";
+}
+.icon-info-calendar:before {
+    content: "\32";
+}
+.icon-info-phone:before {
+    content: "\33";
+}
+.icon-info-place:before {
+    content: "\34";
+}
+.icon-chevron-down:before {
+    content: "\35";
+}
+.icon-chevron-up:before {
+    content: "\36";
+}
+.icon-info:before {
+    content: "\37";
+}
+.icon-success:before {
+    content: "\38";
+}
+.icon-warning:before {
+    content: "\39";
+}
+.icon-moon:before {
+    content: "\3a";
+}
+.icon-sun:before {
+    content: "\3b";
+}
+.icon-natural-gas:before {
+    content: "\3c";
+}
+.icon-info-account:before {
+    content: "\3d";
+}
+.icon-info-search:before {
+    content: "\3e";
+}
+.icon-info-fixit:before {
+    content: "\3f";
+}
+.icon-info-green-pass:before {
+    content: "\40";
+}
+.icon-warning-cycle:before {
+    content: "\41";
+}
+.icon-eye:before {
+    content: "\42";
+}
+.icon-search:before {
+    content: "\43";
+}
+.icon-delete:before {
+    content: "\44";
+}
+.icon-app-gallery:before {
+    content: "\45";
+}
+.icon-app-store:before {
+    content: "\46";
+}
+.icon-google-play:before {
+    content: "\47";
+}
+.icon-apple-store:before {
+    content: "\48";
+}
+.icon-app-gal:before {
+    content: "\49";
+}
+.icon-g-play:before {
+    content: "\4a";
+}
+.icon-doc:before {
+    content: "\4b";
+}
+.icon-pdf:before {
+    content: "\4c";
+}
+.icon-xls:before {
+    content: "\4d";
+}
+.icon-zip:before {
+    content: "\4e";
+}
+.icon-calendar:before {
+    content: "\4f";
+}
+.icon-renew:before {
+    content: "\50";
+}
+.icon-close:before {
+    content: "\51";
+}
+.icon-list:before {
+    content: "\52";
+}
+.icon-map:before {
+    content: "\53";
+}
+.icon-info-time:before {
+    content: "\54";
+}
+.icon-megaphone:before {
+    content: "\55";
+}
+.icon-file:before {
+    content: "\56";
+}
+.icon-refresh:before {
+    content: "\57";
+}
+.icon-target:before {
+    content: "\58";
+}
+.icon-cloud-upload:before {
+    content: "\59";
+}
+.icon-edit:before {
+    content: "\5a";
+}
+.icon-clicktocall:before {
+    content: "\5b";
+}
+.icon-picto envelope:before {
+    content: "\5c";
+}
+.icon-info-email:before {
+    content: "\5d";
+}
+.icon-info-calendar-new:before {
+    content: "\5e";
+}
+.icon-external-link:before {
+    content: "\5f";
+}
+.icon-eye-blind:before {
+    content: "\60";
+}
+.icon-reminder:before {
+    content: "\61";
+}
+.icon-download:before {
+    content: "\62";
+}
+.icon-credit-card:before {
+    content: "\63";
+}
+.icon-modal-trigger:before {
+    content: "\64";
+}
+.icon-social-tiktok:before {
+    content: "\65";
+}
+.icon-info-live-chat:before {
+    content: "\ca";
+}
+.icon-info-video-call:before {
+    content: "\cb";
+}
+.icon-chevron-left:before {
+    content: "\c8";
+}
+.icon-chevron-right:before {
+    content: "\c9";
+}

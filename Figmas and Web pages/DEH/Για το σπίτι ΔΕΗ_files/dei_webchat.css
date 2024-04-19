@@ -1,0 +1,141 @@
+.cpwebchatHolder #app * {
+  z-index: 1199 !important;
+}
+
+.cpwebchatHolder #app .dropdown-after {
+  z-index: 1200 !important;
+}
+
+.cpwebchatHolder #app .dropdown-after * {
+  z-index: 1200 !important;
+}
+
+.cpwebchatHolder #app #cpBubbleIcon {
+  z-index: 1198 !important;
+}
+
+.cpwebchatHolder #app .start-conv:hover {
+  color: #ffffff !important;
+}
+
+.cpwebchatHolder #app .start-conv:active {
+  color: #ffffff !important;
+}
+
+.cpwebchatHolder #app .deiBubbleIcon {
+  z-index: 1198 !important;
+}
+
+.cpwebchatHolder #app .deiBubbleIcon * {
+  z-index: 1198 !important;
+}
+
+.tableQR button span {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.cpwebchatHolder #webchat-comp {
+  position: fixed !important;
+  left: unset !important;
+}
+
+.cpwebchatHolder {
+  visibility: hidden;
+}
+
+.tableQR button:focus-visible,
+.tableQR button:focus,
+.send-button:focus-visible,
+.send-button:focus,
+.navlist .navlistitem button:focus-visible,
+.navlist .navlistitem button:focus,
+#QR_component button:focus,
+#QR_component button:focus-visible {
+  border: none !important;
+  outline: none !important;
+}
+
+.swiper-wrapper {
+  height: fit-content !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .webchat-main-component {
+    height: 100vh;
+    width: 100vw;
+    position: fixed !important;
+    bottom: 0;
+    right: 0;
+    height: -webkit-fill-available;
+    height: -moz-available;
+    min-height: 80vh !important;
+  }
+}
+
+@media only screen and (max-height: 600px) {
+  .webchat-main-component {
+    height: 100vh;
+    width: 100vw;
+    position: fixed !important;
+    bottom: 0;
+    right: 0;
+    height: -webkit-fill-available;
+    height: -moz-available;
+    min-height: 80vh !important;
+  }
+}
+
+#dei-webchat-carousel .swiper-button-prev,
+#dei-webchat-carousel .swiper-button-next {
+  z-index: 2000 !important;
+  color: #fa4616 !important;
+}
+
+#dei-webchat-carousel .swiper-scrollbar {
+  z-index: 2000 !important;
+}
+
+#Carousel_component .swiper-button-prev,
+#Carousel_component .swiper-button-next {
+  z-index: 2000 !important;
+  color: #fa4616 !important;
+}
+
+#Carousel_component .swiper-scrollbar {
+  z-index: 2000 !important;
+}
+
+/* @media only screen and (max-width: 1024px) {
+	.cpwebchatHolder #webchat-comp {
+		bottom: 100px;
+	}
+} */
+
+.cpwebchatHolder #webchat-comp {
+  left: unset !important;
+}
+
+.cpwebchatHolder .qrButton {
+  line-height: 1 !important;
+  font-weight: 500 !important;
+}
+
+.cpwebchatHolder .tableQR td {
+  padding: 0 !important;
+}
+
+.cpwebchatHolder #liveMessage {
+  white-space: break-spaces !important;
+}
+
+.cpwebchatHolder .text-message {
+  white-space: break-spaces !important;
+}
+
+.cpwebchatHolder #app .chat-main-content .updates-notification {
+  /* z-index: 1400 !important; */
+  display: none!important;
+}

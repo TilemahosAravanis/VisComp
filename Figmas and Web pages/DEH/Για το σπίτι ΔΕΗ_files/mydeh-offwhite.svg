@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99" height="48" viewBox="0 0 99 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_78" data-name="Rectangle 78" width="94.984" height="26.5" fill="#f2f2f2"/>
+    </clipPath>
+    <clipPath id="clip-myDEH_offwhite">
+      <rect width="99" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="myDEH_offwhite" data-name="myDEH offwhite" clip-path="url(#clip-myDEH_offwhite)">
+    <g id="Group_269" data-name="Group 269" transform="translate(0 12.999)">
+      <g id="Group_268" data-name="Group 268" transform="translate(0 0.001)" clip-path="url(#clip-path)">
+        <path id="Path_1578" data-name="Path 1578" d="M2.179,12.952V16.5c1.511-2.644,3.429-3.865,5.928-3.865a4.6,4.6,0,0,1,4.882,4.155c1.54-2.848,3.487-4.155,6.073-4.155,2.528,0,5.027,1.307,5.027,6.044V28.12H21.909V18.967c0-3.022-1.366-4.3-3.313-4.3-2.383,0-4.126,1.744-5.463,5.2V28.12h-2.18V18.967c0-3.022-1.365-4.3-3.312-4.3-2.412,0-4.1,1.744-5.463,5.23V28.12H0V12.952Z" transform="translate(0 -7.693)" fill="#f2f2f2"/>
+        <path id="Path_1579" data-name="Path 1579" d="M73.853,28.821,67.693,13.45h2.5L74.986,26,79.433,13.45H81.9L73.708,34.691H71.384l2.5-5.87Z" transform="translate(-41.223 -8.191)" fill="#f2f2f2"/>
+        <path id="Path_1580" data-name="Path 1580" d="M114.313,0h2.15l7.613,18.626v1.8H106.555v-1.8Zm1.017,2.644-6.421,15.749h12.7Z" transform="translate(-64.889 0)" fill="#f2f2f2"/>
+        <path id="Path_1581" data-name="Path 1581" d="M171.065,0V2.092h-8.892V9.124h7.613v2.092h-7.613v7.119h8.892v2.092H159.907V0Z" transform="translate(-97.379 0)" fill="#f2f2f2"/>
+        <path id="Path_1582" data-name="Path 1582" d="M201.481,0V9.124h12.553V0H216.3V20.427h-2.266V11.245H201.481v9.182h-2.266V0Z" transform="translate(-121.316 0)" fill="#f2f2f2"/>
+      </g>
+    </g>
+  </g>
+</svg>
