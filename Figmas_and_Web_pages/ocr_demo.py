@@ -5,6 +5,8 @@ from azure.core.credentials import AzureKeyCredential
 
 from PIL import Image,ImageDraw
 
+from font_detector.font_detector import detect_designer_developer_fonts
+
 # Set the values of your computer vision endpoint and computer vision key
 # as environment variables:
 try:
@@ -82,13 +84,4 @@ def concat_json(image_results, font_results):
 # results = analyze_image(f"{path_to_dir}\\Web_page.png",f"{path_to_dir}\\web_crops",f"{path_to_dir}\\web_res.txt")
 ##text,pos,both = compare_pages(f"{path_to_dir}Web_page.png",f"{path_to_dir}Figma_design.png")
 ## draw_boxes("Web_page.png",text,pos,both)
-
-dict1 = {'a': 1, 'b': 2, 'c': 3}
-dict2 = {'b': 4, 'c': 5, 'd': 6}
-
-common_key = 'c'
-
-dict1.update((key, (dict1.get(key), dict2.get(key))) for key in dict1 if key in dict2)
-
-print(dict1)
 
