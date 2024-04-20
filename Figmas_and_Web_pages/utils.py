@@ -57,13 +57,11 @@ def compare_pages(path_to_web:str,path_to_figma:str):
             both_error = [x for x in position_error if x in text_error]
     return text_error, position_error, both_error
 
-def draw_boxes(path_to_png:str,text_error:list,pos_error:list,both_error:list):
+def draw_boxes(path_to_png:str,boxes):
     page = Image.open(path_to_png)
     draw = ImageDraw.Draw(page)
-    for text,pos,both in zip(text_error,pos_error,both_error):
-        draw.rectangle(text,outline="red")
-        draw.rectangle(pos,outline="blue")
-        draw.rectangle(both,outline="green")
+    for box in boxes:
+        draw.rectangle(box,outline="red")
     page.save(f"{path_to_png.split('.')[0]}_with_errors.png")
 
           

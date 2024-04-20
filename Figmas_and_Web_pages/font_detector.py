@@ -25,7 +25,7 @@ def detect_font_style(filename):
         URL,
         data = PARAMETERS
     )
-
+    print('RESPONSE:',response)
     response = response.json()
 
     # Manipulate JSON file
@@ -36,32 +36,23 @@ def detect_font_style(filename):
     return fonts 
 
 
-def detect_designer_developer_fonts(designer_img_dir, developer_img_dir):
+def detect_designer_developer_fonts(designer_img_dir):
     ret = []
 
     # For each image of the designer cropped imgs...
     imgs_filename = os.listdir(designer_img_dir)
     for imgs in imgs_filename:
         filename = designer_img_dir + "/" + imgs
-        fonts = detect_font_style(filename)
-        dict = {
-            "crop_path":filename,
-            "fonts":fonts,
-            "type":"designer"
-        }
-        ret.append(dict)
-
-    # For each image of the developer imgs...
-    imgs_filename = os.listdir(developer_img_dir)
-    for imgs in imgs_filename:
-        filename = developer_img_dir + "/" + imgs
-        fonts = detect_font_style(filename)
-        dict = {
-            "crop_path":filename,
-            "fonts":fonts,
-            "type":"developer"
-        }
-        ret.append(dict)
+        try:
+            fonts = detect_font_style(filename)
+            dict = {
+                "crop_path":filename,
+                "fonts":fonts,
+            }
+            ret.append(dict)
+        except:
+            print(filename)
+            continue
 
     return ret
 
