@@ -1,0 +1,542 @@
+   Line: 'OnTO HELLENIC BANK', Bounding box [{'x': 60, 'y': 30}, {'x': 388, 'y': 29}, {'x': 388, 'y': 64}, {'x': 60, 'y': 67}]
+     Word: 'OnTO', Bounding polygon [{'x': 61, 'y': 30}, {'x': 135, 'y': 31}, {'x': 135, 'y': 66}, {'x': 61, 'y': 68}], Confidence 0.1580
+     Word: 'HELLENIC', Bounding polygon [{'x': 151, 'y': 31}, {'x': 292, 'y': 31}, {'x': 292, 'y': 64}, {'x': 151, 'y': 66}], Confidence 0.9920
+     Word: 'BANK', Bounding polygon [{'x': 309, 'y': 31}, {'x': 387, 'y': 30}, {'x': 387, 'y': 63}, {'x': 309, 'y': 64}], Confidence 0.9980
+   Line: 'PERSONAL BUSINESS THE GROUP', Bounding box [{'x': 1069, 'y': 33}, {'x': 1362, 'y': 34}, {'x': 1362, 'y': 60}, {'x': 1069, 'y': 59}]
+     Word: 'PERSONAL', Bounding polygon [{'x': 1074, 'y': 34}, {'x': 1152, 'y': 37}, {'x': 1152, 'y': 60}, {'x': 1074, 'y': 60}], Confidence 0.9930
+     Word: 'BUSINESS', Bounding polygon [{'x': 1160, 'y': 37}, {'x': 1233, 'y': 39}, {'x': 1233, 'y': 58}, {'x': 1160, 'y': 59}], Confidence 0.9930
+     Word: 'THE', Bounding polygon [{'x': 1243, 'y': 39}, {'x': 1269, 'y': 40}, {'x': 1269, 'y': 58}, {'x': 1243, 'y': 58}], Confidence 0.9940
+     Word: 'GROUP', Bounding polygon [{'x': 1273, 'y': 40}, {'x': 1325, 'y': 40}, {'x': 1325, 'y': 56}, {'x': 1273, 'y': 57}], Confidence 0.9950
+   Line: 'Accounts Cards Loans Digital Banking Wealth Insurance', Bounding box [{'x': 49, 'y': 94}, {'x': 662, 'y': 96}, {'x': 662, 'y': 121}, {'x': 49, 'y': 120}]
+     Word: 'Accounts', Bounding polygon [{'x': 59, 'y': 95}, {'x': 141, 'y': 95}, {'x': 141, 'y': 121}, {'x': 59, 'y': 121}], Confidence 0.9940
+     Word: 'Cards', Bounding polygon [{'x': 169, 'y': 95}, {'x': 223, 'y': 95}, {'x': 223, 'y': 121}, {'x': 169, 'y': 121}], Confidence 0.9940
+     Word: 'Loans', Bounding polygon [{'x': 250, 'y': 95}, {'x': 304, 'y': 96}, {'x': 304, 'y': 121}, {'x': 250, 'y': 121}], Confidence 0.9930
+     Word: 'Digital', Bounding polygon [{'x': 333, 'y': 96}, {'x': 385, 'y': 96}, {'x': 385, 'y': 121}, {'x': 333, 'y': 121}], Confidence 0.9930
+     Word: 'Banking', Bounding polygon [{'x': 390, 'y': 96}, {'x': 459, 'y': 97}, {'x': 459, 'y': 120}, {'x': 390, 'y': 121}], Confidence 0.9950
+     Word: 'Wealth', Bounding polygon [{'x': 488, 'y': 97}, {'x': 547, 'y': 98}, {'x': 547, 'y': 120}, {'x': 488, 'y': 120}], Confidence 0.9940
+     Word: 'Insurance', Bounding polygon [{'x': 579, 'y': 99}, {'x': 662, 'y': 100}, {'x': 662, 'y': 120}, {'x': 579, 'y': 120}], Confidence 0.9930
+   Line: '& O Q & Login', Bounding box [{'x': 1165, 'y': 92}, {'x': 1385, 'y': 93}, {'x': 1385, 'y': 122}, {'x': 1165, 'y': 120}]
+     Word: '&', Bounding polygon [{'x': 1169, 'y': 92}, {'x': 1184, 'y': 93}, {'x': 1181, 'y': 119}, {'x': 1166, 'y': 119}], Confidence 0.0160
+     Word: 'O', Bounding polygon [{'x': 1217, 'y': 94}, {'x': 1231, 'y': 94}, {'x': 1229, 'y': 118}, {'x': 1214, 'y': 118}], Confidence 0.1460
+     Word: 'Q', Bounding polygon [{'x': 1258, 'y': 94}, {'x': 1272, 'y': 94}, {'x': 1270, 'y': 119}, {'x': 1256, 'y': 118}], Confidence 0.2160
+     Word: '&', Bounding polygon [{'x': 1305, 'y': 94}, {'x': 1320, 'y': 94}, {'x': 1319, 'y': 120}, {'x': 1304, 'y': 119}], Confidence 0.0080
+     Word: 'Login', Bounding polygon [{'x': 1329, 'y': 94}, {'x': 1381, 'y': 93}, {'x': 1381, 'y': 123}, {'x': 1328, 'y': 120}], Confidence 0.9630
+   Line: '12 ND CLAIME', Bounding box [{'x': 589, 'y': 265}, {'x': 701, 'y': 263}, {'x': 703, 'y': 320}, {'x': 589, 'y': 323}]
+     Word: '12', Bounding polygon [{'x': 592, 'y': 290}, {'x': 603, 'y': 285}, {'x': 601, 'y': 320}, {'x': 590, 'y': 324}], Confidence 0.8470
+     Word: 'ND', Bounding polygon [{'x': 609, 'y': 282}, {'x': 631, 'y': 271}, {'x': 630, 'y': 308}, {'x': 607, 'y': 317}], Confidence 0.6930
+     Word: 'CLAIME', Bounding polygon [{'x': 637, 'y': 268}, {'x': 699, 'y': 290}, {'x': 702, 'y': 318}, {'x': 637, 'y': 306}], Confidence 0.7080
+   Line: 'EAT', Bounding box [{'x': 755, 'y': 358}, {'x': 862, 'y': 361}, {'x': 858, 'y': 421}, {'x': 751, 'y': 418}]
+     Word: 'EAT', Bounding polygon [{'x': 752, 'y': 358}, {'x': 856, 'y': 361}, {'x': 854, 'y': 421}, {'x': 751, 'y': 418}], Confidence 0.9900
+   Line: 'Towards a', Bounding box [{'x': 67, 'y': 416}, {'x': 372, 'y': 418}, {'x': 372, 'y': 477}, {'x': 67, 'y': 476}]
+     Word: 'Towards', Bounding polygon [{'x': 68, 'y': 417}, {'x': 314, 'y': 420}, {'x': 314, 'y': 476}, {'x': 68, 'y': 477}], Confidence 0.9930
+     Word: 'a', Bounding polygon [{'x': 334, 'y': 421}, {'x': 364, 'y': 422}, {'x': 364, 'y': 475}, {'x': 334, 'y': 476}], Confidence 0.9970
+   Line: 'LOCAL', Bounding box [{'x': 766, 'y': 446}, {'x': 838, 'y': 449}, {'x': 838, 'y': 479}, {'x': 763, 'y': 476}]
+     Word: 'LOCAL', Bounding polygon [{'x': 777, 'y': 446}, {'x': 838, 'y': 448}, {'x': 837, 'y': 479}, {'x': 776, 'y': 476}], Confidence 0.8760
+   Line: 'secure and', Bounding box [{'x': 51, 'y': 496}, {'x': 390, 'y': 498}, {'x': 390, 'y': 552}, {'x': 51, 'y': 551}]
+     Word: 'secure', Bounding polygon [{'x': 59, 'y': 497}, {'x': 254, 'y': 498}, {'x': 256, 'y': 553}, {'x': 62, 'y': 552}], Confidence 0.9960
+     Word: 'and', Bounding polygon [{'x': 280, 'y': 498}, {'x': 379, 'y': 499}, {'x': 379, 'y': 551}, {'x': 281, 'y': 552}], Confidence 0.9980
+   Line: 'happy life', Bounding box [{'x': 53, 'y': 563}, {'x': 353, 'y': 563}, {'x': 353, 'y': 636}, {'x': 53, 'y': 637}]
+     Word: 'happy', Bounding polygon [{'x': 54, 'y': 563}, {'x': 239, 'y': 567}, {'x': 241, 'y': 636}, {'x': 54, 'y': 637}], Confidence 0.9970
+     Word: 'life', Bounding polygon [{'x': 254, 'y': 568}, {'x': 348, 'y': 566}, {'x': 352, 'y': 631}, {'x': 256, 'y': 636}], Confidence 0.9930
+   Line: 'based on the value of your primary residence.', Bounding box [{'x': 50, 'y': 663}, {'x': 431, 'y': 663}, {'x': 431, 'y': 702}, {'x': 50, 'y': 705}]
+     Word: 'based', Bounding polygon [{'x': 55, 'y': 663}, {'x': 103, 'y': 664}, {'x': 103, 'y': 704}, {'x': 55, 'y': 706}], Confidence 0.9920
+     Word: 'on', Bounding polygon [{'x': 110, 'y': 664}, {'x': 128, 'y': 664}, {'x': 128, 'y': 703}, {'x': 110, 'y': 704}], Confidence 0.9980
+     Word: 'the', Bounding polygon [{'x': 135, 'y': 664}, {'x': 158, 'y': 664}, {'x': 158, 'y': 702}, {'x': 135, 'y': 703}], Confidence 0.9930
+     Word: 'value', Bounding polygon [{'x': 165, 'y': 665}, {'x': 206, 'y': 665}, {'x': 206, 'y': 700}, {'x': 165, 'y': 702}], Confidence 0.9940
+     Word: 'of', Bounding polygon [{'x': 213, 'y': 665}, {'x': 227, 'y': 665}, {'x': 227, 'y': 700}, {'x': 213, 'y': 700}], Confidence 0.9730
+     Word: 'your', Bounding polygon [{'x': 234, 'y': 665}, {'x': 268, 'y': 666}, {'x': 268, 'y': 699}, {'x': 234, 'y': 700}], Confidence 0.9910
+     Word: 'primary', Bounding polygon [{'x': 275, 'y': 666}, {'x': 334, 'y': 666}, {'x': 334, 'y': 697}, {'x': 275, 'y': 699}], Confidence 0.9940
+     Word: 'residence.', Bounding polygon [{'x': 341, 'y': 666}, {'x': 430, 'y': 667}, {'x': 430, 'y': 696}, {'x': 341, 'y': 697}], Confidence 0.9830
+   Line: 'Discover Housing Loans', Bounding box [{'x': 84, 'y': 773}, {'x': 287, 'y': 772}, {'x': 287, 'y': 805}, {'x': 84, 'y': 806}]
+     Word: 'Discover', Bounding polygon [{'x': 85, 'y': 773}, {'x': 154, 'y': 773}, {'x': 156, 'y': 806}, {'x': 88, 'y': 807}], Confidence 0.9940
+     Word: 'Housing', Bounding polygon [{'x': 160, 'y': 773}, {'x': 228, 'y': 774}, {'x': 229, 'y': 804}, {'x': 162, 'y': 806}], Confidence 0.9940
+     Word: 'Loans', Bounding polygon [{'x': 234, 'y': 774}, {'x': 287, 'y': 775}, {'x': 287, 'y': 802}, {'x': 235, 'y': 803}], Confidence 0.9940
+   Line: 'CREDIT CARDS', Bounding box [{'x': 1215, 'y': 820}, {'x': 1217, 'y': 677}, {'x': 1257, 'y': 679}, {'x': 1252, 'y': 822}]
+     Word: 'CREDIT', Bounding polygon [{'x': 1215, 'y': 821}, {'x': 1215, 'y': 759}, {'x': 1252, 'y': 758}, {'x': 1253, 'y': 816}], Confidence 0.9810
+     Word: 'CARDS', Bounding polygon [{'x': 1215, 'y': 751}, {'x': 1219, 'y': 679}, {'x': 1256, 'y': 682}, {'x': 1252, 'y': 750}], Confidence 0.9900
+   Line: 'MPLE REWARDS', Bounding box [{'x': 1315, 'y': 841}, {'x': 1321, 'y': 588}, {'x': 1362, 'y': 588}, {'x': 1356, 'y': 842}]
+     Word: 'MPLE', Bounding polygon [{'x': 1315, 'y': 825}, {'x': 1318, 'y': 775}, {'x': 1356, 'y': 777}, {'x': 1352, 'y': 827}], Confidence 0.9790
+     Word: 'REWARDS', Bounding polygon [{'x': 1319, 'y': 767}, {'x': 1322, 'y': 668}, {'x': 1361, 'y': 669}, {'x': 1357, 'y': 769}], Confidence 0.8680
+   Line: '1', Bounding box [{'x': 711, 'y': 917}, {'x': 730, 'y': 924}, {'x': 730, 'y': 957}, {'x': 705, 'y': 961}]
+     Word: '1', Bounding polygon [{'x': 711, 'y': 917}, {'x': 731, 'y': 918}, {'x': 729, 'y': 962}, {'x': 706, 'y': 961}], Confidence 0.5820
+   Line: 'Be modern1', Bounding box [{'x': 547, 'y': 1028}, {'x': 887, 'y': 1026}, {'x': 888, 'y': 1084}, {'x': 547, 'y': 1089}]
+     Word: 'Be', Bounding polygon [{'x': 551, 'y': 1028}, {'x': 621, 'y': 1028}, {'x': 618, 'y': 1089}, {'x': 548, 'y': 1089}], Confidence 0.9990
+     Word: 'modern1', Bounding polygon [{'x': 632, 'y': 1028}, {'x': 888, 'y': 1027}, {'x': 888, 'y': 1081}, {'x': 630, 'y': 1089}], Confidence 0.9880
+   Line: 'Embracing the new financial reality', Bounding box [{'x': 335, 'y': 1116}, {'x': 1096, 'y': 1117}, {'x': 1095, 'y': 1171}, {'x': 335, 'y': 1168}]
+     Word: 'Embracing', Bounding polygon [{'x': 338, 'y': 1120}, {'x': 566, 'y': 1117}, {'x': 567, 'y': 1169}, {'x': 338, 'y': 1164}], Confidence 0.9950
+     Word: 'the', Bounding polygon [{'x': 581, 'y': 1117}, {'x': 650, 'y': 1116}, {'x': 652, 'y': 1170}, {'x': 582, 'y': 1170}], Confidence 0.9990
+     Word: 'new', Bounding polygon [{'x': 665, 'y': 1116}, {'x': 745, 'y': 1116}, {'x': 746, 'y': 1171}, {'x': 666, 'y': 1171}], Confidence 0.9990
+     Word: 'financial', Bounding polygon [{'x': 769, 'y': 1116}, {'x': 950, 'y': 1118}, {'x': 953, 'y': 1171}, {'x': 771, 'y': 1171}], Confidence 0.9930
+     Word: 'reality', Bounding polygon [{'x': 961, 'y': 1118}, {'x': 1092, 'y': 1120}, {'x': 1095, 'y': 1169}, {'x': 963, 'y': 1171}], Confidence 0.9940
+   Line: 'Web banking', Bounding box [{'x': 106, 'y': 1273}, {'x': 290, 'y': 1273}, {'x': 290, 'y': 1308}, {'x': 106, 'y': 1309}]
+     Word: 'Web', Bounding polygon [{'x': 107, 'y': 1273}, {'x': 166, 'y': 1275}, {'x': 166, 'y': 1308}, {'x': 107, 'y': 1310}], Confidence 0.9940
+     Word: 'banking', Bounding polygon [{'x': 173, 'y': 1275}, {'x': 281, 'y': 1277}, {'x': 281, 'y': 1305}, {'x': 173, 'y': 1308}], Confidence 0.9950
+   Line: 'Mobile app', Bounding box [{'x': 769, 'y': 1273}, {'x': 935, 'y': 1275}, {'x': 934, 'y': 1306}, {'x': 769, 'y': 1305}]
+     Word: 'Mobile', Bounding polygon [{'x': 778, 'y': 1274}, {'x': 867, 'y': 1276}, {'x': 869, 'y': 1306}, {'x': 778, 'y': 1305}], Confidence 0.9940
+     Word: 'app', Bounding polygon [{'x': 875, 'y': 1276}, {'x': 921, 'y': 1277}, {'x': 924, 'y': 1304}, {'x': 877, 'y': 1306}], Confidence 0.9980
+   Line: 'An easy and secure way to', Bounding box [{'x': 103, 'y': 1365}, {'x': 338, 'y': 1365}, {'x': 339, 'y': 1391}, {'x': 103, 'y': 1393}]
+     Word: 'An', Bounding polygon [{'x': 107, 'y': 1366}, {'x': 128, 'y': 1366}, {'x': 128, 'y': 1394}, {'x': 107, 'y': 1394}], Confidence 0.6530
+     Word: 'easy', Bounding polygon [{'x': 133, 'y': 1366}, {'x': 171, 'y': 1365}, {'x': 171, 'y': 1393}, {'x': 133, 'y': 1394}], Confidence 0.9550
+     Word: 'and', Bounding polygon [{'x': 176, 'y': 1365}, {'x': 207, 'y': 1365}, {'x': 207, 'y': 1392}, {'x': 176, 'y': 1393}], Confidence 0.9910
+     Word: 'secure', Bounding polygon [{'x': 212, 'y': 1365}, {'x': 264, 'y': 1365}, {'x': 264, 'y': 1391}, {'x': 212, 'y': 1392}], Confidence 0.9590
+     Word: 'way', Bounding polygon [{'x': 269, 'y': 1365}, {'x': 302, 'y': 1366}, {'x': 302, 'y': 1390}, {'x': 269, 'y': 1391}], Confidence 0.9650
+     Word: 'to', Bounding polygon [{'x': 307, 'y': 1366}, {'x': 327, 'y': 1366}, {'x': 327, 'y': 1390}, {'x': 307, 'y': 1390}], Confidence 0.9930
+   Line: 'access all your accounts and', Bounding box [{'x': 111, 'y': 1386}, {'x': 338, 'y': 1386}, {'x': 339, 'y': 1415}, {'x': 112, 'y': 1417}]
+     Word: 'access', Bounding polygon [{'x': 112, 'y': 1387}, {'x': 163, 'y': 1387}, {'x': 165, 'y': 1418}, {'x': 115, 'y': 1417}], Confidence 0.9540
+     Word: 'all', Bounding polygon [{'x': 169, 'y': 1387}, {'x': 184, 'y': 1387}, {'x': 186, 'y': 1418}, {'x': 171, 'y': 1418}], Confidence 0.9930
+     Word: 'your', Bounding polygon [{'x': 189, 'y': 1387}, {'x': 225, 'y': 1387}, {'x': 227, 'y': 1417}, {'x': 191, 'y': 1417}], Confidence 0.9900
+     Word: 'accounts', Bounding polygon [{'x': 231, 'y': 1387}, {'x': 304, 'y': 1388}, {'x': 305, 'y': 1414}, {'x': 232, 'y': 1417}], Confidence 0.9810
+     Word: 'and', Bounding polygon [{'x': 310, 'y': 1388}, {'x': 338, 'y': 1388}, {'x': 338, 'y': 1412}, {'x': 311, 'y': 1414}], Confidence 0.9840
+   Line: 'Manage your finances by you', Bounding box [{'x': 781, 'y': 1364}, {'x': 1016, 'y': 1364}, {'x': 1016, 'y': 1391}, {'x': 781, 'y': 1392}]
+     Word: 'Manage', Bounding polygon [{'x': 784, 'y': 1365}, {'x': 842, 'y': 1366}, {'x': 841, 'y': 1392}, {'x': 781, 'y': 1390}], Confidence 0.8070
+     Word: 'your', Bounding polygon [{'x': 847, 'y': 1366}, {'x': 881, 'y': 1366}, {'x': 881, 'y': 1393}, {'x': 846, 'y': 1392}], Confidence 0.9830
+     Word: 'finances', Bounding polygon [{'x': 886, 'y': 1366}, {'x': 956, 'y': 1366}, {'x': 958, 'y': 1392}, {'x': 886, 'y': 1393}], Confidence 0.5810
+     Word: 'by', Bounding polygon [{'x': 961, 'y': 1366}, {'x': 980, 'y': 1365}, {'x': 982, 'y': 1391}, {'x': 963, 'y': 1392}], Confidence 0.9930
+     Word: 'you', Bounding polygon [{'x': 985, 'y': 1365}, {'x': 1014, 'y': 1365}, {'x': 1017, 'y': 1390}, {'x': 987, 'y': 1391}], Confidence 0.9960
+   Line: 'manage your payments,', Bounding box [{'x': 108, 'y': 1409}, {'x': 310, 'y': 1408}, {'x': 310, 'y': 1434}, {'x': 108, 'y': 1437}]
+     Word: 'manage', Bounding polygon [{'x': 109, 'y': 1409}, {'x': 171, 'y': 1408}, {'x': 171, 'y': 1436}, {'x': 109, 'y': 1438}], Confidence 0.9940
+     Word: 'your', Bounding polygon [{'x': 176, 'y': 1408}, {'x': 211, 'y': 1408}, {'x': 211, 'y': 1435}, {'x': 176, 'y': 1436}], Confidence 0.9860
+     Word: 'payments,', Bounding polygon [{'x': 216, 'y': 1409}, {'x': 308, 'y': 1410}, {'x': 308, 'y': 1431}, {'x': 216, 'y': 1435}], Confidence 0.9830
+   Line: 'mobile phone or your tablet,', Bounding box [{'x': 781, 'y': 1386}, {'x': 1008, 'y': 1380}, {'x': 1009, 'y': 1405}, {'x': 781, 'y': 1413}]
+     Word: 'mobile', Bounding polygon [{'x': 784, 'y': 1386}, {'x': 831, 'y': 1386}, {'x': 829, 'y': 1413}, {'x': 781, 'y': 1414}], Confidence 0.8510
+     Word: 'phone', Bounding polygon [{'x': 836, 'y': 1386}, {'x': 886, 'y': 1385}, {'x': 885, 'y': 1410}, {'x': 834, 'y': 1412}], Confidence 0.9960
+     Word: 'or', Bounding polygon [{'x': 891, 'y': 1385}, {'x': 907, 'y': 1384}, {'x': 908, 'y': 1409}, {'x': 891, 'y': 1410}], Confidence 0.9980
+     Word: 'your', Bounding polygon [{'x': 912, 'y': 1384}, {'x': 947, 'y': 1383}, {'x': 949, 'y': 1407}, {'x': 913, 'y': 1409}], Confidence 0.9930
+     Word: 'tablet,', Bounding polygon [{'x': 952, 'y': 1383}, {'x': 1005, 'y': 1381}, {'x': 1009, 'y': 1404}, {'x': 954, 'y': 1407}], Confidence 0.9920
+   Line: 'anytime.', Bounding box [{'x': 105, 'y': 1421}, {'x': 203, 'y': 1423}, {'x': 203, 'y': 1452}, {'x': 105, 'y': 1451}]
+     Word: 'anytime.', Bounding polygon [{'x': 107, 'y': 1422}, {'x': 184, 'y': 1425}, {'x': 184, 'y': 1452}, {'x': 107, 'y': 1452}], Confidence 0.9900
+   Line: 'Discover More ->', Bounding box [{'x': 115, 'y': 1510}, {'x': 259, 'y': 1509}, {'x': 260, 'y': 1533}, {'x': 115, 'y': 1536}]
+     Word: 'Discover', Bounding polygon [{'x': 115, 'y': 1513}, {'x': 180, 'y': 1510}, {'x': 180, 'y': 1533}, {'x': 115, 'y': 1537}], Confidence 0.8210
+     Word: 'More', Bounding polygon [{'x': 184, 'y': 1510}, {'x': 228, 'y': 1511}, {'x': 228, 'y': 1532}, {'x': 184, 'y': 1532}], Confidence 0.9920
+     Word: '->', Bounding polygon [{'x': 233, 'y': 1511}, {'x': 256, 'y': 1513}, {'x': 256, 'y': 1532}, {'x': 233, 'y': 1532}], Confidence 0.8410
+   Line: 'iscover More ->', Bounding box [{'x': 791, 'y': 1509}, {'x': 924, 'y': 1511}, {'x': 924, 'y': 1537}, {'x': 791, 'y': 1536}]
+     Word: 'iscover', Bounding polygon [{'x': 792, 'y': 1510}, {'x': 848, 'y': 1511}, {'x': 848, 'y': 1537}, {'x': 792, 'y': 1537}], Confidence 0.9940
+     Word: 'More', Bounding polygon [{'x': 853, 'y': 1511}, {'x': 898, 'y': 1512}, {'x': 898, 'y': 1537}, {'x': 853, 'y': 1537}], Confidence 0.9930
+     Word: '->', Bounding polygon [{'x': 903, 'y': 1513}, {'x': 923, 'y': 1513}, {'x': 923, 'y': 1537}, {'x': 903, 'y': 1537}], Confidence 0.8280
+   Line: 'Wallet app', Bounding box [{'x': 100, 'y': 1643}, {'x': 247, 'y': 1641}, {'x': 248, 'y': 1672}, {'x': 101, 'y': 1676}]
+     Word: 'Wallet', Bounding polygon [{'x': 106, 'y': 1643}, {'x': 192, 'y': 1642}, {'x': 195, 'y': 1673}, {'x': 113, 'y': 1676}], Confidence 0.9970
+     Word: 'app', Bounding polygon [{'x': 199, 'y': 1642}, {'x': 247, 'y': 1642}, {'x': 247, 'y': 1668}, {'x': 201, 'y': 1673}], Confidence 0.9930
+   Line: 'Get rewards while spending with', Bounding box [{'x': 889, 'y': 1631}, {'x': 1330, 'y': 1632}, {'x': 1330, 'y': 1669}, {'x': 889, 'y': 1668}]
+     Word: 'Get', Bounding polygon [{'x': 893, 'y': 1631}, {'x': 938, 'y': 1631}, {'x': 935, 'y': 1669}, {'x': 890, 'y': 1669}], Confidence 0.9980
+     Word: 'rewards', Bounding polygon [{'x': 944, 'y': 1631}, {'x': 1054, 'y': 1632}, {'x': 1053, 'y': 1667}, {'x': 942, 'y': 1669}], Confidence 0.9940
+     Word: 'while', Bounding polygon [{'x': 1061, 'y': 1632}, {'x': 1132, 'y': 1632}, {'x': 1133, 'y': 1667}, {'x': 1060, 'y': 1667}], Confidence 0.9980
+     Word: 'spending', Bounding polygon [{'x': 1139, 'y': 1633}, {'x': 1262, 'y': 1635}, {'x': 1264, 'y': 1666}, {'x': 1140, 'y': 1667}], Confidence 0.9930
+     Word: 'with', Bounding polygon [{'x': 1269, 'y': 1636}, {'x': 1327, 'y': 1637}, {'x': 1330, 'y': 1666}, {'x': 1271, 'y': 1666}], Confidence 0.9930
+   Line: 'he Mple app', Bounding box [{'x': 898, 'y': 1675}, {'x': 1069, 'y': 1676}, {'x': 1069, 'y': 1710}, {'x': 898, 'y': 1709}]
+     Word: 'he', Bounding polygon [{'x': 900, 'y': 1676}, {'x': 934, 'y': 1677}, {'x': 935, 'y': 1710}, {'x': 900, 'y': 1709}], Confidence 0.9940
+     Word: 'Mple', Bounding polygon [{'x': 941, 'y': 1678}, {'x': 1007, 'y': 1679}, {'x': 1009, 'y': 1709}, {'x': 942, 'y': 1710}], Confidence 0.9930
+     Word: 'app', Bounding polygon [{'x': 1016, 'y': 1679}, {'x': 1064, 'y': 1679}, {'x': 1067, 'y': 1707}, {'x': 1018, 'y': 1709}], Confidence 0.9990
+   Line: 'Forgetting your wallet at home isn't a', Bounding box [{'x': 111, 'y': 1724}, {'x': 406, 'y': 1723}, {'x': 406, 'y': 1753}, {'x': 111, 'y': 1756}]
+     Word: 'Forgetting', Bounding polygon [{'x': 112, 'y': 1725}, {'x': 187, 'y': 1724}, {'x': 187, 'y': 1756}, {'x': 112, 'y': 1757}], Confidence 0.9920
+     Word: 'your', Bounding polygon [{'x': 193, 'y': 1724}, {'x': 227, 'y': 1724}, {'x': 227, 'y': 1755}, {'x': 193, 'y': 1756}], Confidence 0.9910
+     Word: 'wallet', Bounding polygon [{'x': 233, 'y': 1724}, {'x': 282, 'y': 1724}, {'x': 282, 'y': 1755}, {'x': 233, 'y': 1755}], Confidence 0.9940
+     Word: 'at', Bounding polygon [{'x': 288, 'y': 1724}, {'x': 300, 'y': 1724}, {'x': 300, 'y': 1754}, {'x': 288, 'y': 1755}], Confidence 0.9960
+     Word: 'home', Bounding polygon [{'x': 306, 'y': 1724}, {'x': 351, 'y': 1724}, {'x': 351, 'y': 1754}, {'x': 306, 'y': 1754}], Confidence 0.9920
+     Word: 'isn't', Bounding polygon [{'x': 357, 'y': 1724}, {'x': 389, 'y': 1724}, {'x': 389, 'y': 1753}, {'x': 357, 'y': 1754}], Confidence 0.9880
+     Word: 'a', Bounding polygon [{'x': 395, 'y': 1724}, {'x': 405, 'y': 1724}, {'x': 405, 'y': 1753}, {'x': 395, 'y': 1753}], Confidence 0.9930
+   Line: 'problem anymore. Pay using your', Bounding box [{'x': 108, 'y': 1744}, {'x': 387, 'y': 1743}, {'x': 387, 'y': 1773}, {'x': 108, 'y': 1777}]
+     Word: 'problem', Bounding polygon [{'x': 109, 'y': 1745}, {'x': 172, 'y': 1744}, {'x': 172, 'y': 1778}, {'x': 109, 'y': 1778}], Confidence 0.9940
+     Word: 'anymore.', Bounding polygon [{'x': 179, 'y': 1744}, {'x': 251, 'y': 1744}, {'x': 251, 'y': 1776}, {'x': 179, 'y': 1777}], Confidence 0.9860
+     Word: 'Pay', Bounding polygon [{'x': 257, 'y': 1744}, {'x': 285, 'y': 1744}, {'x': 285, 'y': 1774}, {'x': 257, 'y': 1776}], Confidence 0.9980
+     Word: 'using', Bounding polygon [{'x': 291, 'y': 1744}, {'x': 333, 'y': 1745}, {'x': 333, 'y': 1772}, {'x': 291, 'y': 1774}], Confidence 0.9970
+     Word: 'your', Bounding polygon [{'x': 339, 'y': 1745}, {'x': 384, 'y': 1745}, {'x': 384, 'y': 1769}, {'x': 339, 'y': 1772}], Confidence 0.9920
+   Line: 'mobile phone, safely,', Bounding box [{'x': 106, 'y': 1766}, {'x': 297, 'y': 1766}, {'x': 297, 'y': 1790}, {'x': 106, 'y': 1793}]
+     Word: 'mobile', Bounding polygon [{'x': 107, 'y': 1767}, {'x': 158, 'y': 1767}, {'x': 162, 'y': 1793}, {'x': 110, 'y': 1794}], Confidence 0.9940
+     Word: 'phone,', Bounding polygon [{'x': 163, 'y': 1767}, {'x': 220, 'y': 1767}, {'x': 223, 'y': 1791}, {'x': 167, 'y': 1793}], Confidence 0.9940
+     Word: 'safely,', Bounding polygon [{'x': 225, 'y': 1767}, {'x': 283, 'y': 1767}, {'x': 286, 'y': 1788}, {'x': 228, 'y': 1791}], Confidence 0.6680
+   Line: 'Make your purchases using your card at any merchant', Bounding box [{'x': 881, 'y': 1745}, {'x': 1329, 'y': 1745}, {'x': 1329, 'y': 1788}, {'x': 881, 'y': 1788}]
+     Word: 'Make', Bounding polygon [{'x': 886, 'y': 1745}, {'x': 930, 'y': 1746}, {'x': 930, 'y': 1788}, {'x': 886, 'y': 1789}], Confidence 0.9890
+     Word: 'your', Bounding polygon [{'x': 937, 'y': 1746}, {'x': 969, 'y': 1747}, {'x': 969, 'y': 1788}, {'x': 937, 'y': 1788}], Confidence 0.9880
+     Word: 'purchases', Bounding polygon [{'x': 976, 'y': 1747}, {'x': 1058, 'y': 1749}, {'x': 1058, 'y': 1786}, {'x': 976, 'y': 1788}], Confidence 0.9920
+     Word: 'using', Bounding polygon [{'x': 1065, 'y': 1749}, {'x': 1106, 'y': 1750}, {'x': 1106, 'y': 1785}, {'x': 1065, 'y': 1786}], Confidence 0.9950
+     Word: 'your', Bounding polygon [{'x': 1113, 'y': 1750}, {'x': 1146, 'y': 1751}, {'x': 1146, 'y': 1784}, {'x': 1113, 'y': 1785}], Confidence 0.9900
+     Word: 'card', Bounding polygon [{'x': 1153, 'y': 1751}, {'x': 1187, 'y': 1751}, {'x': 1187, 'y': 1783}, {'x': 1153, 'y': 1784}], Confidence 0.9900
+     Word: 'at', Bounding polygon [{'x': 1194, 'y': 1751}, {'x': 1208, 'y': 1752}, {'x': 1208, 'y': 1783}, {'x': 1194, 'y': 1783}], Confidence 0.9960
+     Word: 'any', Bounding polygon [{'x': 1215, 'y': 1752}, {'x': 1241, 'y': 1752}, {'x': 1241, 'y': 1782}, {'x': 1215, 'y': 1783}], Confidence 0.9950
+     Word: 'merchant', Bounding polygon [{'x': 1248, 'y': 1752}, {'x': 1329, 'y': 1754}, {'x': 1329, 'y': 1780}, {'x': 1248, 'y': 1782}], Confidence 0.9940
+   Line: 'cashback. All you have to do is to download the Mple', Bounding box [{'x': 889, 'y': 1784}, {'x': 1326, 'y': 1786}, {'x': 1326, 'y': 1825}, {'x': 889, 'y': 1824}]
+     Word: 'cashback.', Bounding polygon [{'x': 890, 'y': 1785}, {'x': 968, 'y': 1786}, {'x': 968, 'y': 1825}, {'x': 890, 'y': 1825}], Confidence 0.9890
+     Word: 'All', Bounding polygon [{'x': 975, 'y': 1786}, {'x': 992, 'y': 1787}, {'x': 992, 'y': 1825}, {'x': 975, 'y': 1825}], Confidence 0.9860
+     Word: 'you', Bounding polygon [{'x': 999, 'y': 1787}, {'x': 1025, 'y': 1787}, {'x': 1025, 'y': 1824}, {'x': 999, 'y': 1825}], Confidence 0.9960
+     Word: 'have', Bounding polygon [{'x': 1031, 'y': 1787}, {'x': 1068, 'y': 1788}, {'x': 1068, 'y': 1824}, {'x': 1031, 'y': 1824}], Confidence 0.9910
+     Word: 'to', Bounding polygon [{'x': 1075, 'y': 1788}, {'x': 1090, 'y': 1789}, {'x': 1090, 'y': 1823}, {'x': 1075, 'y': 1824}], Confidence 0.9930
+     Word: 'do', Bounding polygon [{'x': 1097, 'y': 1789}, {'x': 1114, 'y': 1789}, {'x': 1114, 'y': 1823}, {'x': 1097, 'y': 1823}], Confidence 0.9930
+     Word: 'is', Bounding polygon [{'x': 1121, 'y': 1789}, {'x': 1134, 'y': 1790}, {'x': 1134, 'y': 1823}, {'x': 1121, 'y': 1823}], Confidence 0.9980
+     Word: 'to', Bounding polygon [{'x': 1140, 'y': 1790}, {'x': 1156, 'y': 1790}, {'x': 1156, 'y': 1822}, {'x': 1140, 'y': 1823}], Confidence 0.9970
+     Word: 'download', Bounding polygon [{'x': 1162, 'y': 1790}, {'x': 1238, 'y': 1793}, {'x': 1238, 'y': 1821}, {'x': 1162, 'y': 1822}], Confidence 0.9930
+     Word: 'the', Bounding polygon [{'x': 1245, 'y': 1793}, {'x': 1269, 'y': 1793}, {'x': 1269, 'y': 1820}, {'x': 1245, 'y': 1820}], Confidence 0.9980
+     Word: 'Mple', Bounding polygon [{'x': 1275, 'y': 1794}, {'x': 1325, 'y': 1795}, {'x': 1325, 'y': 1819}, {'x': 1275, 'y': 1820}], Confidence 0.9880
+   Line: 'Rewards and register.', Bounding box [{'x': 891, 'y': 1807}, {'x': 1101, 'y': 1808}, {'x': 1100, 'y': 1848}, {'x': 891, 'y': 1847}]
+     Word: 'Rewards', Bounding polygon [{'x': 895, 'y': 1808}, {'x': 959, 'y': 1813}, {'x': 956, 'y': 1848}, {'x': 892, 'y': 1844}], Confidence 0.9910
+     Word: 'and', Bounding polygon [{'x': 965, 'y': 1813}, {'x': 992, 'y': 1814}, {'x': 990, 'y': 1849}, {'x': 963, 'y': 1848}], Confidence 0.9970
+     Word: 'register.', Bounding polygon [{'x': 998, 'y': 1815}, {'x': 1075, 'y': 1814}, {'x': 1075, 'y': 1844}, {'x': 997, 'y': 1849}], Confidence 0.9740
+   Line: 'Discover More -', Bounding box [{'x': 108, 'y': 1873}, {'x': 245, 'y': 1874}, {'x': 245, 'y': 1901}, {'x': 108, 'y': 1900}]
+     Word: 'Discover', Bounding polygon [{'x': 112, 'y': 1874}, {'x': 180, 'y': 1876}, {'x': 178, 'y': 1901}, {'x': 109, 'y': 1900}], Confidence 0.9930
+     Word: 'More', Bounding polygon [{'x': 184, 'y': 1876}, {'x': 228, 'y': 1878}, {'x': 228, 'y': 1900}, {'x': 183, 'y': 1901}], Confidence 0.9880
+     Word: '-', Bounding polygon [{'x': 233, 'y': 1878}, {'x': 244, 'y': 1879}, {'x': 244, 'y': 1899}, {'x': 233, 'y': 1899}], Confidence 0.8860
+   Line: 'Discover More >', Bounding box [{'x': 889, 'y': 1871}, {'x': 1039, 'y': 1871}, {'x': 1040, 'y': 1898}, {'x': 889, 'y': 1902}]
+     Word: 'Discover', Bounding polygon [{'x': 890, 'y': 1872}, {'x': 960, 'y': 1874}, {'x': 961, 'y': 1900}, {'x': 890, 'y': 1902}], Confidence 0.9880
+     Word: 'More', Bounding polygon [{'x': 965, 'y': 1874}, {'x': 1007, 'y': 1874}, {'x': 1010, 'y': 1896}, {'x': 967, 'y': 1900}], Confidence 0.9870
+     Word: '>', Bounding polygon [{'x': 1012, 'y': 1874}, {'x': 1035, 'y': 1873}, {'x': 1038, 'y': 1894}, {'x': 1015, 'y': 1896}], Confidence 0.0390
+   Line: 'Joining the community made easy', Bounding box [{'x': 57, 'y': 2062}, {'x': 800, 'y': 2066}, {'x': 799, 'y': 2117}, {'x': 57, 'y': 2116}]
+     Word: 'Joining', Bounding polygon [{'x': 63, 'y': 2062}, {'x': 214, 'y': 2064}, {'x': 211, 'y': 2117}, {'x': 60, 'y': 2117}], Confidence 0.9930
+     Word: 'the', Bounding polygon [{'x': 226, 'y': 2064}, {'x': 295, 'y': 2066}, {'x': 293, 'y': 2117}, {'x': 224, 'y': 2117}], Confidence 0.9940
+     Word: 'community', Bounding polygon [{'x': 311, 'y': 2066}, {'x': 549, 'y': 2071}, {'x': 548, 'y': 2114}, {'x': 309, 'y': 2117}], Confidence 0.9930
+     Word: 'made', Bounding polygon [{'x': 565, 'y': 2071}, {'x': 685, 'y': 2074}, {'x': 684, 'y': 2112}, {'x': 564, 'y': 2114}], Confidence 0.9930
+     Word: 'easy', Bounding polygon [{'x': 701, 'y': 2075}, {'x': 799, 'y': 2078}, {'x': 799, 'y': 2110}, {'x': 700, 'y': 2112}], Confidence 0.9930
+   Line: 'Select the ac', Bounding box [{'x': 56, 'y': 2125}, {'x': 163, 'y': 2125}, {'x': 163, 'y': 2158}, {'x': 56, 'y': 2159}]
+     Word: 'Select', Bounding polygon [{'x': 58, 'y': 2126}, {'x': 106, 'y': 2128}, {'x': 105, 'y': 2158}, {'x': 58, 'y': 2160}], Confidence 0.9940
+     Word: 'the', Bounding polygon [{'x': 112, 'y': 2128}, {'x': 138, 'y': 2129}, {'x': 136, 'y': 2157}, {'x': 110, 'y': 2158}], Confidence 0.9980
+     Word: 'ac', Bounding polygon [{'x': 144, 'y': 2129}, {'x': 162, 'y': 2129}, {'x': 159, 'y': 2156}, {'x': 141, 'y': 2157}], Confidence 0.7120
+   Line: 'that fits your needs and start banking eff', Bounding box [{'x': 212, 'y': 2125}, {'x': 543, 'y': 2128}, {'x': 542, 'y': 2163}, {'x': 211, 'y': 2162}]
+     Word: 'that', Bounding polygon [{'x': 215, 'y': 2126}, {'x': 245, 'y': 2127}, {'x': 242, 'y': 2162}, {'x': 212, 'y': 2163}], Confidence 0.9900
+     Word: 'fits', Bounding polygon [{'x': 250, 'y': 2127}, {'x': 275, 'y': 2127}, {'x': 271, 'y': 2161}, {'x': 247, 'y': 2161}], Confidence 0.9900
+     Word: 'your', Bounding polygon [{'x': 280, 'y': 2127}, {'x': 316, 'y': 2128}, {'x': 312, 'y': 2159}, {'x': 277, 'y': 2160}], Confidence 0.9890
+     Word: 'needs', Bounding polygon [{'x': 321, 'y': 2128}, {'x': 371, 'y': 2130}, {'x': 368, 'y': 2158}, {'x': 318, 'y': 2159}], Confidence 0.9950
+     Word: 'and', Bounding polygon [{'x': 377, 'y': 2130}, {'x': 407, 'y': 2131}, {'x': 404, 'y': 2158}, {'x': 374, 'y': 2158}], Confidence 0.9980
+     Word: 'start', Bounding polygon [{'x': 412, 'y': 2131}, {'x': 448, 'y': 2133}, {'x': 445, 'y': 2157}, {'x': 409, 'y': 2157}], Confidence 0.9960
+     Word: 'banking', Bounding polygon [{'x': 453, 'y': 2133}, {'x': 517, 'y': 2136}, {'x': 513, 'y': 2157}, {'x': 450, 'y': 2157}], Confidence 0.9950
+     Word: 'eff', Bounding polygon [{'x': 522, 'y': 2136}, {'x': 543, 'y': 2137}, {'x': 540, 'y': 2158}, {'x': 519, 'y': 2157}], Confidence 0.9480
+   Line: 'Current', Bounding box [{'x': 169, 'y': 2224}, {'x': 235, 'y': 2228}, {'x': 238, 'y': 2258}, {'x': 166, 'y': 2258}]
+     Word: 'Current', Bounding polygon [{'x': 167, 'y': 2224}, {'x': 237, 'y': 2226}, {'x': 236, 'y': 2259}, {'x': 166, 'y': 2258}], Confidence 0.9930
+   Line: 'Basic Joint Overdraft', Bounding box [{'x': 259, 'y': 2221}, {'x': 491, 'y': 2222}, {'x': 491, 'y': 2252}, {'x': 259, 'y': 2252}]
+     Word: 'Basic', Bounding polygon [{'x': 263, 'y': 2222}, {'x': 316, 'y': 2222}, {'x': 313, 'y': 2252}, {'x': 260, 'y': 2252}], Confidence 0.9800
+     Word: 'Joint', Bounding polygon [{'x': 341, 'y': 2223}, {'x': 390, 'y': 2223}, {'x': 388, 'y': 2251}, {'x': 339, 'y': 2251}], Confidence 0.9740
+     Word: 'Overdraft', Bounding polygon [{'x': 415, 'y': 2224}, {'x': 491, 'y': 2225}, {'x': 491, 'y': 2251}, {'x': 413, 'y': 2251}], Confidence 0.9240
+   Line: 'Current account', Bounding box [{'x': 174, 'y': 2353}, {'x': 391, 'y': 2353}, {'x': 391, 'y': 2383}, {'x': 174, 'y': 2385}]
+     Word: 'Current', Bounding polygon [{'x': 178, 'y': 2354}, {'x': 274, 'y': 2356}, {'x': 274, 'y': 2385}, {'x': 175, 'y': 2385}], Confidence 0.9940
+     Word: 'account', Bounding polygon [{'x': 280, 'y': 2356}, {'x': 389, 'y': 2355}, {'x': 392, 'y': 2381}, {'x': 280, 'y': 2384}], Confidence 0.9930
+   Line: 'With a debit card, a cheque book, monthly-', Bounding box [{'x': 168, 'y': 2436}, {'x': 528, 'y': 2442}, {'x': 527, 'y': 2474}, {'x': 168, 'y': 2470}]
+     Word: 'With', Bounding polygon [{'x': 169, 'y': 2436}, {'x': 204, 'y': 2437}, {'x': 203, 'y': 2471}, {'x': 169, 'y': 2471}], Confidence 0.9890
+     Word: 'a', Bounding polygon [{'x': 210, 'y': 2437}, {'x': 218, 'y': 2437}, {'x': 218, 'y': 2471}, {'x': 209, 'y': 2471}], Confidence 0.9900
+     Word: 'debit', Bounding polygon [{'x': 224, 'y': 2437}, {'x': 265, 'y': 2438}, {'x': 265, 'y': 2471}, {'x': 224, 'y': 2471}], Confidence 0.9500
+     Word: 'card,', Bounding polygon [{'x': 272, 'y': 2438}, {'x': 311, 'y': 2439}, {'x': 309, 'y': 2471}, {'x': 271, 'y': 2471}], Confidence 0.8650
+     Word: 'a', Bounding polygon [{'x': 317, 'y': 2439}, {'x': 325, 'y': 2439}, {'x': 324, 'y': 2471}, {'x': 316, 'y': 2471}], Confidence 0.7270
+     Word: 'cheque', Bounding polygon [{'x': 331, 'y': 2439}, {'x': 389, 'y': 2441}, {'x': 387, 'y': 2472}, {'x': 330, 'y': 2471}], Confidence 0.6990
+     Word: 'book,', Bounding polygon [{'x': 395, 'y': 2441}, {'x': 438, 'y': 2443}, {'x': 436, 'y': 2472}, {'x': 393, 'y': 2472}], Confidence 0.6240
+     Word: 'monthly-', Bounding polygon [{'x': 444, 'y': 2444}, {'x': 529, 'y': 2448}, {'x': 526, 'y': 2474}, {'x': 442, 'y': 2473}], Confidence 0.1720
+   Line: 'statements and overdraft limit upon request, 24 hr', Bounding box [{'x': 163, 'y': 2461}, {'x': 576, 'y': 2461}, {'x': 577, 'y': 2498}, {'x': 163, 'y': 2503}]
+     Word: 'statements', Bounding polygon [{'x': 168, 'y': 2461}, {'x': 256, 'y': 2463}, {'x': 254, 'y': 2503}, {'x': 168, 'y': 2502}], Confidence 0.7420
+     Word: 'and', Bounding polygon [{'x': 263, 'y': 2463}, {'x': 292, 'y': 2463}, {'x': 290, 'y': 2503}, {'x': 261, 'y': 2503}], Confidence 0.9930
+     Word: 'overdraft', Bounding polygon [{'x': 299, 'y': 2463}, {'x': 367, 'y': 2464}, {'x': 364, 'y': 2502}, {'x': 297, 'y': 2503}], Confidence 0.9100
+     Word: 'limit', Bounding polygon [{'x': 375, 'y': 2464}, {'x': 406, 'y': 2464}, {'x': 403, 'y': 2501}, {'x': 371, 'y': 2502}], Confidence 0.9590
+     Word: 'upon', Bounding polygon [{'x': 414, 'y': 2464}, {'x': 452, 'y': 2464}, {'x': 448, 'y': 2499}, {'x': 410, 'y': 2501}], Confidence 0.9760
+     Word: 'request,', Bounding polygon [{'x': 460, 'y': 2464}, {'x': 525, 'y': 2463}, {'x': 520, 'y': 2495}, {'x': 455, 'y': 2499}], Confidence 0.9920
+     Word: '24', Bounding polygon [{'x': 533, 'y': 2463}, {'x': 550, 'y': 2462}, {'x': 544, 'y': 2493}, {'x': 527, 'y': 2494}], Confidence 0.9970
+     Word: 'hr', Bounding polygon [{'x': 557, 'y': 2462}, {'x': 576, 'y': 2462}, {'x': 570, 'y': 2491}, {'x': 551, 'y': 2492}], Confidence 0.9410
+   Line: 'tracking through Web Banking and of course', Bounding box [{'x': 163, 'y': 2484}, {'x': 567, 'y': 2482}, {'x': 567, 'y': 2517}, {'x': 163, 'y': 2522}]
+     Word: 'tracking', Bounding polygon [{'x': 166, 'y': 2485}, {'x': 230, 'y': 2484}, {'x': 232, 'y': 2521}, {'x': 169, 'y': 2523}], Confidence 0.9930
+     Word: 'through', Bounding polygon [{'x': 237, 'y': 2484}, {'x': 299, 'y': 2483}, {'x': 300, 'y': 2519}, {'x': 239, 'y': 2521}], Confidence 0.9940
+     Word: 'Web', Bounding polygon [{'x': 306, 'y': 2483}, {'x': 340, 'y': 2483}, {'x': 341, 'y': 2518}, {'x': 307, 'y': 2519}], Confidence 0.9950
+     Word: 'Banking', Bounding polygon [{'x': 347, 'y': 2483}, {'x': 409, 'y': 2483}, {'x': 408, 'y': 2517}, {'x': 347, 'y': 2518}], Confidence 0.9930
+     Word: 'and', Bounding polygon [{'x': 416, 'y': 2483}, {'x': 446, 'y': 2483}, {'x': 444, 'y': 2516}, {'x': 415, 'y': 2517}], Confidence 0.9980
+     Word: 'of', Bounding polygon [{'x': 453, 'y': 2483}, {'x': 466, 'y': 2483}, {'x': 465, 'y': 2516}, {'x': 451, 'y': 2516}], Confidence 0.9990
+     Word: 'course', Bounding polygon [{'x': 473, 'y': 2483}, {'x': 537, 'y': 2483}, {'x': 534, 'y': 2516}, {'x': 472, 'y': 2516}], Confidence 0.8220
+   Line: 'standing order and direct debit options, you will', Bounding box [{'x': 168, 'y': 2501}, {'x': 562, 'y': 2503}, {'x': 562, 'y': 2537}, {'x': 168, 'y': 2536}]
+     Word: 'standing', Bounding polygon [{'x': 169, 'y': 2502}, {'x': 236, 'y': 2503}, {'x': 236, 'y': 2537}, {'x': 169, 'y': 2537}], Confidence 0.9890
+     Word: 'order', Bounding polygon [{'x': 243, 'y': 2503}, {'x': 285, 'y': 2504}, {'x': 284, 'y': 2537}, {'x': 242, 'y': 2537}], Confidence 0.9930
+     Word: 'and', Bounding polygon [{'x': 291, 'y': 2504}, {'x': 321, 'y': 2505}, {'x': 319, 'y': 2537}, {'x': 290, 'y': 2537}], Confidence 0.9970
+     Word: 'direct', Bounding polygon [{'x': 327, 'y': 2505}, {'x': 371, 'y': 2505}, {'x': 370, 'y': 2537}, {'x': 326, 'y': 2537}], Confidence 0.9940
+     Word: 'debit', Bounding polygon [{'x': 378, 'y': 2505}, {'x': 418, 'y': 2505}, {'x': 416, 'y': 2537}, {'x': 376, 'y': 2537}], Confidence 0.9940
+     Word: 'options,', Bounding polygon [{'x': 424, 'y': 2505}, {'x': 487, 'y': 2506}, {'x': 485, 'y': 2537}, {'x': 422, 'y': 2537}], Confidence 0.9890
+     Word: 'you', Bounding polygon [{'x': 494, 'y': 2506}, {'x': 521, 'y': 2506}, {'x': 518, 'y': 2537}, {'x': 491, 'y': 2537}], Confidence 0.9970
+     Word: 'will', Bounding polygon [{'x': 528, 'y': 2506}, {'x': 561, 'y': 2505}, {'x': 558, 'y': 2537}, {'x': 525, 'y': 2537}], Confidence 0.9900
+   Line: 'introduced to a whole new world of everyday', Bounding box [{'x': 171, 'y': 2524}, {'x': 557, 'y': 2524}, {'x': 558, 'y': 2558}, {'x': 171, 'y': 2560}]
+     Word: 'introduced', Bounding polygon [{'x': 172, 'y': 2524}, {'x': 253, 'y': 2526}, {'x': 253, 'y': 2559}, {'x': 172, 'y': 2561}], Confidence 0.9890
+     Word: 'to', Bounding polygon [{'x': 259, 'y': 2526}, {'x': 275, 'y': 2526}, {'x': 275, 'y': 2558}, {'x': 259, 'y': 2558}], Confidence 0.9900
+     Word: 'a', Bounding polygon [{'x': 281, 'y': 2526}, {'x': 289, 'y': 2526}, {'x': 289, 'y': 2558}, {'x': 281, 'y': 2558}], Confidence 0.9940
+     Word: 'whole', Bounding polygon [{'x': 295, 'y': 2526}, {'x': 342, 'y': 2527}, {'x': 342, 'y': 2556}, {'x': 295, 'y': 2557}], Confidence 0.9940
+     Word: 'new', Bounding polygon [{'x': 348, 'y': 2527}, {'x': 380, 'y': 2527}, {'x': 380, 'y': 2556}, {'x': 348, 'y': 2556}], Confidence 0.9980
+     Word: 'world', Bounding polygon [{'x': 386, 'y': 2527}, {'x': 432, 'y': 2527}, {'x': 432, 'y': 2555}, {'x': 386, 'y': 2556}], Confidence 0.9930
+     Word: 'of', Bounding polygon [{'x': 438, 'y': 2527}, {'x': 452, 'y': 2528}, {'x': 452, 'y': 2555}, {'x': 438, 'y': 2555}], Confidence 0.9970
+     Word: 'everyday', Bounding polygon [{'x': 457, 'y': 2528}, {'x': 536, 'y': 2527}, {'x': 536, 'y': 2555}, {'x': 457, 'y': 2555}], Confidence 0.9940
+   Line: 'banking with us.', Bounding box [{'x': 164, 'y': 2543}, {'x': 342, 'y': 2543}, {'x': 343, 'y': 2573}, {'x': 164, 'y': 2575}]
+     Word: 'banking', Bounding polygon [{'x': 168, 'y': 2544}, {'x': 231, 'y': 2546}, {'x': 233, 'y': 2575}, {'x': 168, 'y': 2575}], Confidence 0.9910
+     Word: 'with', Bounding polygon [{'x': 237, 'y': 2547}, {'x': 269, 'y': 2547}, {'x': 271, 'y': 2574}, {'x': 238, 'y': 2575}], Confidence 0.9900
+     Word: 'us.', Bounding polygon [{'x': 275, 'y': 2547}, {'x': 307, 'y': 2546}, {'x': 310, 'y': 2572}, {'x': 277, 'y': 2573}], Confidence 0.2030
+   Line: 'Open Current Account', Bounding box [{'x': 188, 'y': 2651}, {'x': 396, 'y': 2651}, {'x': 396, 'y': 2685}, {'x': 189, 'y': 2687}]
+     Word: 'Open', Bounding polygon [{'x': 194, 'y': 2652}, {'x': 237, 'y': 2652}, {'x': 240, 'y': 2685}, {'x': 197, 'y': 2688}], Confidence 0.9910
+     Word: 'Current', Bounding polygon [{'x': 243, 'y': 2652}, {'x': 303, 'y': 2653}, {'x': 306, 'y': 2683}, {'x': 246, 'y': 2685}], Confidence 0.9890
+     Word: 'Account', Bounding polygon [{'x': 309, 'y': 2653}, {'x': 388, 'y': 2653}, {'x': 391, 'y': 2681}, {'x': 312, 'y': 2682}], Confidence 0.9920
+   Line: 'More ->', Bounding box [{'x': 429, 'y': 2657}, {'x': 536, 'y': 2658}, {'x': 536, 'y': 2681}, {'x': 429, 'y': 2680}]
+     Word: 'More', Bounding polygon [{'x': 441, 'y': 2658}, {'x': 486, 'y': 2659}, {'x': 484, 'y': 2681}, {'x': 441, 'y': 2681}], Confidence 0.9930
+     Word: '->', Bounding polygon [{'x': 492, 'y': 2660}, {'x': 515, 'y': 2660}, {'x': 512, 'y': 2681}, {'x': 490, 'y': 2681}], Confidence 0.8130
+   Line: 'We believe in', Bounding box [{'x': 349, 'y': 3058}, {'x': 1083, 'y': 3059}, {'x': 1083, 'y': 3164}, {'x': 349, 'y': 3163}]
+     Word: 'We', Bounding polygon [{'x': 350, 'y': 3058}, {'x': 510, 'y': 3060}, {'x': 510, 'y': 3164}, {'x': 350, 'y': 3164}], Confidence 0.9910
+     Word: 'believe', Bounding polygon [{'x': 558, 'y': 3060}, {'x': 941, 'y': 3063}, {'x': 941, 'y': 3163}, {'x': 558, 'y': 3164}], Confidence 0.9950
+     Word: 'in', Bounding polygon [{'x': 989, 'y': 3063}, {'x': 1069, 'y': 3063}, {'x': 1069, 'y': 3161}, {'x': 989, 'y': 3162}], Confidence 0.9990
+   Line: 'a greener world', Bounding box [{'x': 272, 'y': 3219}, {'x': 1149, 'y': 3210}, {'x': 1150, 'y': 3321}, {'x': 274, 'y': 3329}]
+     Word: 'a', Bounding polygon [{'x': 280, 'y': 3220}, {'x': 343, 'y': 3219}, {'x': 346, 'y': 3329}, {'x': 283, 'y': 3329}], Confidence 0.9860
+     Word: 'greener', Bounding polygon [{'x': 380, 'y': 3219}, {'x': 823, 'y': 3216}, {'x': 825, 'y': 3326}, {'x': 383, 'y': 3329}], Confidence 0.9950
+     Word: 'world', Bounding polygon [{'x': 847, 'y': 3216}, {'x': 1139, 'y': 3211}, {'x': 1139, 'y': 3316}, {'x': 848, 'y': 3326}], Confidence 0.9940
+   Line: 'riendly material, requiring 82% less PVC to produce. In the coming year, the same greer', Bounding box [{'x': 371, 'y': 3388}, {'x': 1067, 'y': 3388}, {'x': 1067, 'y': 3422}, {'x': 371, 'y': 3420}]
+     Word: 'riendly', Bounding polygon [{'x': 372, 'y': 3389}, {'x': 421, 'y': 3390}, {'x': 421, 'y': 3417}, {'x': 372, 'y': 3415}], Confidence 0.7320
+     Word: 'material,', Bounding polygon [{'x': 426, 'y': 3390}, {'x': 496, 'y': 3392}, {'x': 496, 'y': 3419}, {'x': 426, 'y': 3417}], Confidence 0.9870
+     Word: 'requiring', Bounding polygon [{'x': 502, 'y': 3392}, {'x': 573, 'y': 3393}, {'x': 573, 'y': 3420}, {'x': 502, 'y': 3419}], Confidence 0.9580
+     Word: '82%', Bounding polygon [{'x': 579, 'y': 3393}, {'x': 611, 'y': 3393}, {'x': 611, 'y': 3421}, {'x': 579, 'y': 3420}], Confidence 0.9590
+     Word: 'less', Bounding polygon [{'x': 616, 'y': 3393}, {'x': 648, 'y': 3393}, {'x': 648, 'y': 3421}, {'x': 616, 'y': 3421}], Confidence 0.9900
+     Word: 'PVC', Bounding polygon [{'x': 654, 'y': 3394}, {'x': 686, 'y': 3394}, {'x': 686, 'y': 3422}, {'x': 654, 'y': 3421}], Confidence 0.9930
+     Word: 'to', Bounding polygon [{'x': 691, 'y': 3394}, {'x': 708, 'y': 3394}, {'x': 708, 'y': 3422}, {'x': 691, 'y': 3422}], Confidence 0.9980
+     Word: 'produce.', Bounding polygon [{'x': 714, 'y': 3394}, {'x': 783, 'y': 3393}, {'x': 783, 'y': 3422}, {'x': 714, 'y': 3422}], Confidence 0.9900
+     Word: 'In', Bounding polygon [{'x': 789, 'y': 3393}, {'x': 802, 'y': 3393}, {'x': 802, 'y': 3422}, {'x': 789, 'y': 3422}], Confidence 0.9890
+     Word: 'the', Bounding polygon [{'x': 808, 'y': 3393}, {'x': 834, 'y': 3393}, {'x': 834, 'y': 3422}, {'x': 808, 'y': 3422}], Confidence 0.9980
+     Word: 'coming', Bounding polygon [{'x': 840, 'y': 3393}, {'x': 898, 'y': 3392}, {'x': 898, 'y': 3422}, {'x': 840, 'y': 3422}], Confidence 0.9940
+     Word: 'year,', Bounding polygon [{'x': 904, 'y': 3392}, {'x': 941, 'y': 3391}, {'x': 941, 'y': 3421}, {'x': 904, 'y': 3422}], Confidence 0.9930
+     Word: 'the', Bounding polygon [{'x': 947, 'y': 3391}, {'x': 973, 'y': 3391}, {'x': 973, 'y': 3421}, {'x': 947, 'y': 3421}], Confidence 0.9980
+     Word: 'same', Bounding polygon [{'x': 979, 'y': 3390}, {'x': 1022, 'y': 3389}, {'x': 1022, 'y': 3420}, {'x': 979, 'y': 3421}], Confidence 0.9930
+     Word: 'greer', Bounding polygon [{'x': 1028, 'y': 3389}, {'x': 1067, 'y': 3388}, {'x': 1067, 'y': 3420}, {'x': 1028, 'y': 3420}], Confidence 0.7600
+   Line: 'practice will be applied to all biodegradable Visa cards as well.', Bounding box [{'x': 413, 'y': 3419}, {'x': 975, 'y': 3419}, {'x': 975, 'y': 3446}, {'x': 413, 'y': 3447}]
+     Word: 'practice', Bounding polygon [{'x': 466, 'y': 3420}, {'x': 531, 'y': 3420}, {'x': 531, 'y': 3447}, {'x': 466, 'y': 3446}], Confidence 0.8620
+     Word: 'will', Bounding polygon [{'x': 537, 'y': 3420}, {'x': 561, 'y': 3420}, {'x': 561, 'y': 3447}, {'x': 537, 'y': 3447}], Confidence 0.9900
+     Word: 'be', Bounding polygon [{'x': 567, 'y': 3420}, {'x': 588, 'y': 3419}, {'x': 588, 'y': 3447}, {'x': 567, 'y': 3447}], Confidence 0.9970
+     Word: 'applied', Bounding polygon [{'x': 593, 'y': 3419}, {'x': 650, 'y': 3419}, {'x': 650, 'y': 3447}, {'x': 593, 'y': 3447}], Confidence 0.9940
+     Word: 'to', Bounding polygon [{'x': 656, 'y': 3419}, {'x': 673, 'y': 3419}, {'x': 673, 'y': 3447}, {'x': 656, 'y': 3447}], Confidence 0.9980
+     Word: 'all', Bounding polygon [{'x': 679, 'y': 3419}, {'x': 695, 'y': 3419}, {'x': 695, 'y': 3447}, {'x': 679, 'y': 3447}], Confidence 0.9980
+     Word: 'biodegradable', Bounding polygon [{'x': 700, 'y': 3419}, {'x': 816, 'y': 3419}, {'x': 816, 'y': 3447}, {'x': 700, 'y': 3447}], Confidence 0.9810
+     Word: 'Visa', Bounding polygon [{'x': 821, 'y': 3419}, {'x': 855, 'y': 3419}, {'x': 855, 'y': 3447}, {'x': 821, 'y': 3447}], Confidence 0.9910
+     Word: 'cards', Bounding polygon [{'x': 860, 'y': 3419}, {'x': 904, 'y': 3419}, {'x': 904, 'y': 3446}, {'x': 860, 'y': 3447}], Confidence 0.9940
+     Word: 'as', Bounding polygon [{'x': 910, 'y': 3419}, {'x': 928, 'y': 3419}, {'x': 928, 'y': 3446}, {'x': 910, 'y': 3446}], Confidence 0.9970
+     Word: 'well.', Bounding polygon [{'x': 933, 'y': 3419}, {'x': 976, 'y': 3419}, {'x': 976, 'y': 3445}, {'x': 933, 'y': 3446}], Confidence 0.9920
+   Line: 'Corporate Responsibility', Bounding box [{'x': 612, 'y': 3518}, {'x': 827, 'y': 3520}, {'x': 827, 'y': 3550}, {'x': 612, 'y': 3549}]
+     Word: 'Corporate', Bounding polygon [{'x': 616, 'y': 3519}, {'x': 699, 'y': 3523}, {'x': 699, 'y': 3550}, {'x': 616, 'y': 3550}], Confidence 0.9940
+     Word: 'Responsibility', Bounding polygon [{'x': 704, 'y': 3523}, {'x': 823, 'y': 3524}, {'x': 823, 'y': 3549}, {'x': 704, 'y': 3550}], Confidence 0.9940
+   Line: 'Sharing knowledge is always good', Bounding box [{'x': 336, 'y': 3689}, {'x': 1102, 'y': 3692}, {'x': 1101, 'y': 3745}, {'x': 336, 'y': 3742}]
+     Word: 'Sharing', Bounding polygon [{'x': 346, 'y': 3690}, {'x': 508, 'y': 3691}, {'x': 505, 'y': 3742}, {'x': 343, 'y': 3743}], Confidence 0.9970
+     Word: 'knowledge', Bounding polygon [{'x': 519, 'y': 3692}, {'x': 759, 'y': 3693}, {'x': 755, 'y': 3743}, {'x': 516, 'y': 3742}], Confidence 0.9940
+     Word: 'is', Bounding polygon [{'x': 770, 'y': 3693}, {'x': 813, 'y': 3693}, {'x': 810, 'y': 3744}, {'x': 767, 'y': 3743}], Confidence 0.9990
+     Word: 'always', Bounding polygon [{'x': 824, 'y': 3693}, {'x': 973, 'y': 3693}, {'x': 970, 'y': 3745}, {'x': 821, 'y': 3744}], Confidence 0.9970
+     Word: 'good', Bounding polygon [{'x': 983, 'y': 3693}, {'x': 1094, 'y': 3692}, {'x': 1091, 'y': 3746}, {'x': 980, 'y': 3745}], Confidence 0.9830
+   Line: 'Lorem ipsum pero adic vero esso assiedo', Bounding box [{'x': 540, 'y': 3750}, {'x': 891, 'y': 3754}, {'x': 891, 'y': 3784}, {'x': 540, 'y': 3781}]
+     Word: 'Lorem', Bounding polygon [{'x': 549, 'y': 3751}, {'x': 600, 'y': 3753}, {'x': 600, 'y': 3782}, {'x': 549, 'y': 3782}], Confidence 0.9890
+     Word: 'ipsum', Bounding polygon [{'x': 605, 'y': 3753}, {'x': 654, 'y': 3754}, {'x': 654, 'y': 3781}, {'x': 605, 'y': 3782}], Confidence 0.9960
+     Word: 'pero', Bounding polygon [{'x': 659, 'y': 3754}, {'x': 696, 'y': 3755}, {'x': 696, 'y': 3781}, {'x': 659, 'y': 3781}], Confidence 0.9930
+     Word: 'adic', Bounding polygon [{'x': 701, 'y': 3755}, {'x': 734, 'y': 3756}, {'x': 734, 'y': 3782}, {'x': 701, 'y': 3781}], Confidence 0.9920
+     Word: 'vero', Bounding polygon [{'x': 739, 'y': 3756}, {'x': 773, 'y': 3756}, {'x': 773, 'y': 3782}, {'x': 739, 'y': 3782}], Confidence 0.9930
+     Word: 'esso', Bounding polygon [{'x': 779, 'y': 3756}, {'x': 817, 'y': 3756}, {'x': 817, 'y': 3783}, {'x': 779, 'y': 3782}], Confidence 0.9930
+     Word: 'assiedo', Bounding polygon [{'x': 822, 'y': 3756}, {'x': 889, 'y': 3756}, {'x': 889, 'y': 3784}, {'x': 822, 'y': 3783}], Confidence 0.9950
+   Line: 'Improve your credit score', Bounding box [{'x': 864, 'y': 3909}, {'x': 1221, 'y': 3912}, {'x': 1220, 'y': 3948}, {'x': 864, 'y': 3945}]
+     Word: 'Improve', Bounding polygon [{'x': 869, 'y': 3910}, {'x': 981, 'y': 3910}, {'x': 981, 'y': 3947}, {'x': 872, 'y': 3945}], Confidence 0.9930
+     Word: 'your', Bounding polygon [{'x': 988, 'y': 3910}, {'x': 1051, 'y': 3911}, {'x': 1049, 'y': 3948}, {'x': 988, 'y': 3947}], Confidence 0.9920
+     Word: 'credit', Bounding polygon [{'x': 1057, 'y': 3911}, {'x': 1137, 'y': 3913}, {'x': 1132, 'y': 3948}, {'x': 1055, 'y': 3948}], Confidence 0.9930
+     Word: 'score', Bounding polygon [{'x': 1144, 'y': 3913}, {'x': 1220, 'y': 3915}, {'x': 1213, 'y': 3947}, {'x': 1139, 'y': 3948}], Confidence 0.9960
+   Line: 'Lorem ipsum dolor sitLorem ipsum dolor sit lorem lorem', Bounding box [{'x': 877, 'y': 3961}, {'x': 1319, 'y': 3961}, {'x': 1319, 'y': 3998}, {'x': 877, 'y': 3997}]
+     Word: 'Lorem', Bounding polygon [{'x': 877, 'y': 3961}, {'x': 919, 'y': 3961}, {'x': 919, 'y': 3998}, {'x': 877, 'y': 3998}], Confidence 0.9940
+     Word: 'ipsum', Bounding polygon [{'x': 926, 'y': 3961}, {'x': 973, 'y': 3961}, {'x': 973, 'y': 3998}, {'x': 926, 'y': 3998}], Confidence 0.9930
+     Word: 'dolor', Bounding polygon [{'x': 980, 'y': 3961}, {'x': 1020, 'y': 3961}, {'x': 1019, 'y': 3998}, {'x': 980, 'y': 3998}], Confidence 0.9940
+     Word: 'sitLorem', Bounding polygon [{'x': 1027, 'y': 3961}, {'x': 1093, 'y': 3962}, {'x': 1091, 'y': 3998}, {'x': 1026, 'y': 3998}], Confidence 0.9910
+     Word: 'ipsum', Bounding polygon [{'x': 1100, 'y': 3962}, {'x': 1149, 'y': 3962}, {'x': 1147, 'y': 3998}, {'x': 1098, 'y': 3998}], Confidence 0.9920
+     Word: 'dolor', Bounding polygon [{'x': 1156, 'y': 3962}, {'x': 1196, 'y': 3962}, {'x': 1194, 'y': 3998}, {'x': 1154, 'y': 3998}], Confidence 0.9940
+     Word: 'sit', Bounding polygon [{'x': 1203, 'y': 3962}, {'x': 1217, 'y': 3963}, {'x': 1215, 'y': 3998}, {'x': 1201, 'y': 3998}], Confidence 0.9890
+     Word: 'lorem', Bounding polygon [{'x': 1224, 'y': 3963}, {'x': 1267, 'y': 3963}, {'x': 1264, 'y': 3998}, {'x': 1222, 'y': 3998}], Confidence 0.9930
+     Word: 'lorem', Bounding polygon [{'x': 1274, 'y': 3963}, {'x': 1320, 'y': 3964}, {'x': 1317, 'y': 3998}, {'x': 1271, 'y': 3998}], Confidence 0.9400
+   Line: 'ipsum pero assieso pero lorem ipsum dolor sitLorem', Bounding box [{'x': 874, 'y': 3982}, {'x': 1319, 'y': 3982}, {'x': 1319, 'y': 4016}, {'x': 874, 'y': 4016}]
+     Word: 'ipsum', Bounding polygon [{'x': 878, 'y': 3982}, {'x': 921, 'y': 3982}, {'x': 918, 'y': 4017}, {'x': 875, 'y': 4017}], Confidence 0.8270
+     Word: 'pero', Bounding polygon [{'x': 928, 'y': 3982}, {'x': 961, 'y': 3982}, {'x': 959, 'y': 4017}, {'x': 925, 'y': 4017}], Confidence 0.9880
+     Word: 'assieso', Bounding polygon [{'x': 968, 'y': 3982}, {'x': 1027, 'y': 3982}, {'x': 1025, 'y': 4017}, {'x': 966, 'y': 4017}], Confidence 0.9930
+     Word: 'pero', Bounding polygon [{'x': 1034, 'y': 3982}, {'x': 1065, 'y': 3982}, {'x': 1063, 'y': 4017}, {'x': 1032, 'y': 4017}], Confidence 0.9890
+     Word: 'lorem', Bounding polygon [{'x': 1072, 'y': 3982}, {'x': 1115, 'y': 3982}, {'x': 1113, 'y': 4016}, {'x': 1070, 'y': 4017}], Confidence 0.9930
+     Word: 'ipsum', Bounding polygon [{'x': 1122, 'y': 3982}, {'x': 1171, 'y': 3982}, {'x': 1170, 'y': 4016}, {'x': 1120, 'y': 4016}], Confidence 0.9930
+     Word: 'dolor', Bounding polygon [{'x': 1178, 'y': 3982}, {'x': 1216, 'y': 3982}, {'x': 1216, 'y': 4016}, {'x': 1177, 'y': 4016}], Confidence 0.9930
+     Word: 'sitLorem', Bounding polygon [{'x': 1223, 'y': 3982}, {'x': 1295, 'y': 3982}, {'x': 1294, 'y': 4016}, {'x': 1222, 'y': 4016}], Confidence 0.9830
+   Line: 'ipsum dolor sit lorem lorem ipsum pero assieso perotic', Bounding box [{'x': 876, 'y': 4005}, {'x': 1311, 'y': 4006}, {'x': 1311, 'y': 4037}, {'x': 876, 'y': 4036}]
+     Word: 'ipsum', Bounding polygon [{'x': 876, 'y': 4005}, {'x': 920, 'y': 4006}, {'x': 920, 'y': 4037}, {'x': 876, 'y': 4037}], Confidence 0.9350
+     Word: 'dolor', Bounding polygon [{'x': 926, 'y': 4006}, {'x': 967, 'y': 4007}, {'x': 967, 'y': 4037}, {'x': 926, 'y': 4037}], Confidence 0.9950
+     Word: 'sit', Bounding polygon [{'x': 973, 'y': 4007}, {'x': 990, 'y': 4007}, {'x': 989, 'y': 4037}, {'x': 972, 'y': 4037}], Confidence 0.9980
+     Word: 'lorem', Bounding polygon [{'x': 995, 'y': 4007}, {'x': 1040, 'y': 4007}, {'x': 1039, 'y': 4037}, {'x': 994, 'y': 4037}], Confidence 0.9950
+     Word: 'lorem', Bounding polygon [{'x': 1045, 'y': 4008}, {'x': 1090, 'y': 4008}, {'x': 1089, 'y': 4037}, {'x': 1044, 'y': 4037}], Confidence 0.9940
+     Word: 'ipsum', Bounding polygon [{'x': 1096, 'y': 4008}, {'x': 1144, 'y': 4009}, {'x': 1142, 'y': 4036}, {'x': 1094, 'y': 4037}], Confidence 0.9930
+     Word: 'pero', Bounding polygon [{'x': 1150, 'y': 4009}, {'x': 1187, 'y': 4009}, {'x': 1185, 'y': 4036}, {'x': 1148, 'y': 4036}], Confidence 0.9930
+     Word: 'assieso', Bounding polygon [{'x': 1192, 'y': 4009}, {'x': 1252, 'y': 4010}, {'x': 1249, 'y': 4035}, {'x': 1190, 'y': 4036}], Confidence 0.9950
+     Word: 'perotic', Bounding polygon [{'x': 1258, 'y': 4010}, {'x': 1312, 'y': 4010}, {'x': 1308, 'y': 4034}, {'x': 1255, 'y': 4035}], Confidence 0.5980
+   Line: 'SECURITY', Bounding box [{'x': 872, 'y': 4169}, {'x': 961, 'y': 4172}, {'x': 960, 'y': 4197}, {'x': 872, 'y': 4196}]
+     Word: 'SECURITY', Bounding polygon [{'x': 875, 'y': 4170}, {'x': 948, 'y': 4172}, {'x': 950, 'y': 4196}, {'x': 875, 'y': 4196}], Confidence 0.9900
+   Line: 'Manage your debt', Bounding box [{'x': 360, 'y': 4201}, {'x': 614, 'y': 4201}, {'x': 614, 'y': 4238}, {'x': 360, 'y': 4239}]
+     Word: 'Manage', Bounding polygon [{'x': 363, 'y': 4201}, {'x': 466, 'y': 4206}, {'x': 467, 'y': 4239}, {'x': 360, 'y': 4240}], Confidence 0.9970
+     Word: 'your', Bounding polygon [{'x': 473, 'y': 4206}, {'x': 535, 'y': 4207}, {'x': 539, 'y': 4237}, {'x': 474, 'y': 4239}], Confidence 0.9900
+     Word: 'debt', Bounding polygon [{'x': 542, 'y': 4207}, {'x': 608, 'y': 4206}, {'x': 614, 'y': 4234}, {'x': 545, 'y': 4237}], Confidence 0.9910
+   Line: 'Be safe online', Bounding box [{'x': 878, 'y': 4207}, {'x': 1073, 'y': 4204}, {'x': 1073, 'y': 4236}, {'x': 878, 'y': 4239}]
+     Word: 'Be', Bounding polygon [{'x': 878, 'y': 4209}, {'x': 908, 'y': 4208}, {'x': 909, 'y': 4238}, {'x': 878, 'y': 4240}], Confidence 0.9970
+     Word: 'safe', Bounding polygon [{'x': 916, 'y': 4207}, {'x': 972, 'y': 4206}, {'x': 975, 'y': 4236}, {'x': 917, 'y': 4238}], Confidence 0.9930
+     Word: 'online', Bounding polygon [{'x': 978, 'y': 4206}, {'x': 1058, 'y': 4205}, {'x': 1064, 'y': 4235}, {'x': 982, 'y': 4236}], Confidence 0.9920
+   Line: 'Accounts and manage your payments, anytime.', Bounding box [{'x': 367, 'y': 4278}, {'x': 739, 'y': 4281}, {'x': 738, 'y': 4309}, {'x': 367, 'y': 4306}]
+     Word: 'Accounts', Bounding polygon [{'x': 371, 'y': 4279}, {'x': 436, 'y': 4279}, {'x': 433, 'y': 4306}, {'x': 367, 'y': 4303}], Confidence 0.3520
+     Word: 'and', Bounding polygon [{'x': 441, 'y': 4279}, {'x': 469, 'y': 4280}, {'x': 467, 'y': 4307}, {'x': 438, 'y': 4306}], Confidence 0.9970
+     Word: 'manage', Bounding polygon [{'x': 474, 'y': 4280}, {'x': 537, 'y': 4280}, {'x': 536, 'y': 4308}, {'x': 472, 'y': 4307}], Confidence 0.9940
+     Word: 'your', Bounding polygon [{'x': 543, 'y': 4280}, {'x': 578, 'y': 4281}, {'x': 576, 'y': 4309}, {'x': 541, 'y': 4308}], Confidence 0.9930
+     Word: 'payments,', Bounding polygon [{'x': 583, 'y': 4281}, {'x': 667, 'y': 4281}, {'x': 667, 'y': 4308}, {'x': 582, 'y': 4309}], Confidence 0.9590
+     Word: 'anytime.', Bounding polygon [{'x': 673, 'y': 4281}, {'x': 739, 'y': 4281}, {'x': 739, 'y': 4306}, {'x': 672, 'y': 4308}], Confidence 0.9900
+   Line: 'psum dolor sit lorem lorem', Bounding box [{'x': 878, 'y': 4280}, {'x': 1095, 'y': 4280}, {'x': 1095, 'y': 4311}, {'x': 878, 'y': 4310}]
+     Word: 'psum', Bounding polygon [{'x': 878, 'y': 4280}, {'x': 919, 'y': 4281}, {'x': 920, 'y': 4311}, {'x': 878, 'y': 4311}], Confidence 0.9890
+     Word: 'dolor', Bounding polygon [{'x': 925, 'y': 4281}, {'x': 966, 'y': 4281}, {'x': 968, 'y': 4310}, {'x': 926, 'y': 4311}], Confidence 0.9970
+     Word: 'sit', Bounding polygon [{'x': 972, 'y': 4281}, {'x': 988, 'y': 4281}, {'x': 989, 'y': 4310}, {'x': 974, 'y': 4310}], Confidence 0.9980
+     Word: 'lorem', Bounding polygon [{'x': 994, 'y': 4281}, {'x': 1037, 'y': 4281}, {'x': 1039, 'y': 4310}, {'x': 995, 'y': 4310}], Confidence 0.9950
+     Word: 'lorem', Bounding polygon [{'x': 1043, 'y': 4281}, {'x': 1089, 'y': 4281}, {'x': 1092, 'y': 4311}, {'x': 1045, 'y': 4310}], Confidence 0.9930
+   Line: 'ipsum pero assieso pero.', Bounding box [{'x': 871, 'y': 4305}, {'x': 1099, 'y': 4306}, {'x': 1098, 'y': 4338}, {'x': 871, 'y': 4337}]
+     Word: 'ipsum', Bounding polygon [{'x': 872, 'y': 4305}, {'x': 917, 'y': 4306}, {'x': 920, 'y': 4338}, {'x': 875, 'y': 4338}], Confidence 0.9940
+     Word: 'pero', Bounding polygon [{'x': 923, 'y': 4307}, {'x': 960, 'y': 4307}, {'x': 964, 'y': 4338}, {'x': 926, 'y': 4338}], Confidence 0.9810
+     Word: 'assieso', Bounding polygon [{'x': 966, 'y': 4307}, {'x': 1025, 'y': 4308}, {'x': 1028, 'y': 4337}, {'x': 969, 'y': 4338}], Confidence 0.9930
+     Word: 'pero.', Bounding polygon [{'x': 1031, 'y': 4308}, {'x': 1082, 'y': 4309}, {'x': 1085, 'y': 4335}, {'x': 1034, 'y': 4337}], Confidence 0.9940
+   Line: 'Ipsum pero', Bounding box [{'x': 874, 'y': 4320}, {'x': 963, 'y': 4320}, {'x': 966, 'y': 4344}, {'x': 874, 'y': 4350}]
+     Word: 'Ipsum', Bounding polygon [{'x': 874, 'y': 4320}, {'x': 921, 'y': 4320}, {'x': 922, 'y': 4348}, {'x': 874, 'y': 4350}], Confidence 0.8020
+     Word: 'pero', Bounding polygon [{'x': 927, 'y': 4320}, {'x': 965, 'y': 4320}, {'x': 966, 'y': 4347}, {'x': 928, 'y': 4348}], Confidence 0.9900
+   Line: 'Discover More', Bounding box [{'x': 648, 'y': 4507}, {'x': 788, 'y': 4511}, {'x': 787, 'y': 4544}, {'x': 648, 'y': 4542}]
+     Word: 'Discover', Bounding polygon [{'x': 655, 'y': 4508}, {'x': 725, 'y': 4511}, {'x': 728, 'y': 4544}, {'x': 658, 'y': 4539}], Confidence 0.9910
+     Word: 'More', Bounding polygon [{'x': 731, 'y': 4512}, {'x': 781, 'y': 4513}, {'x': 784, 'y': 4538}, {'x': 734, 'y': 4544}], Confidence 0.9910
+   Line: 'People gave us their thoughts', Bounding box [{'x': 387, 'y': 4678}, {'x': 1044, 'y': 4677}, {'x': 1044, 'y': 4729}, {'x': 387, 'y': 4732}]
+     Word: 'People', Bounding polygon [{'x': 391, 'y': 4678}, {'x': 540, 'y': 4681}, {'x': 542, 'y': 4731}, {'x': 394, 'y': 4733}], Confidence 0.9970
+     Word: 'gave', Bounding polygon [{'x': 554, 'y': 4681}, {'x': 657, 'y': 4682}, {'x': 658, 'y': 4729}, {'x': 555, 'y': 4730}], Confidence 0.9930
+     Word: 'us', Bounding polygon [{'x': 671, 'y': 4682}, {'x': 726, 'y': 4682}, {'x': 726, 'y': 4729}, {'x': 672, 'y': 4729}], Confidence 0.9980
+     Word: 'their', Bounding polygon [{'x': 736, 'y': 4682}, {'x': 837, 'y': 4681}, {'x': 836, 'y': 4729}, {'x': 736, 'y': 4729}], Confidence 0.9980
+     Word: 'thoughts', Bounding polygon [{'x': 847, 'y': 4681}, {'x': 1042, 'y': 4678}, {'x': 1039, 'y': 4729}, {'x': 846, 'y': 4729}], Confidence 0.9950
+   Line: 'We listen to our customers everyday and try our best', Bounding box [{'x': 500, 'y': 4741}, {'x': 940, 'y': 4745}, {'x': 939, 'y': 4775}, {'x': 500, 'y': 4771}]
+     Word: 'We', Bounding polygon [{'x': 504, 'y': 4741}, {'x': 528, 'y': 4742}, {'x': 528, 'y': 4772}, {'x': 504, 'y': 4772}], Confidence 0.9970
+     Word: 'listen', Bounding polygon [{'x': 534, 'y': 4742}, {'x': 577, 'y': 4743}, {'x': 577, 'y': 4772}, {'x': 534, 'y': 4772}], Confidence 0.9940
+     Word: 'to', Bounding polygon [{'x': 582, 'y': 4743}, {'x': 597, 'y': 4744}, {'x': 597, 'y': 4772}, {'x': 582, 'y': 4772}], Confidence 0.9980
+     Word: 'our', Bounding polygon [{'x': 603, 'y': 4744}, {'x': 629, 'y': 4744}, {'x': 629, 'y': 4773}, {'x': 603, 'y': 4773}], Confidence 0.9980
+     Word: 'customers', Bounding polygon [{'x': 634, 'y': 4745}, {'x': 718, 'y': 4746}, {'x': 718, 'y': 4773}, {'x': 634, 'y': 4773}], Confidence 0.9940
+     Word: 'everyday', Bounding polygon [{'x': 724, 'y': 4746}, {'x': 796, 'y': 4747}, {'x': 796, 'y': 4774}, {'x': 724, 'y': 4773}], Confidence 0.9930
+     Word: 'and', Bounding polygon [{'x': 802, 'y': 4747}, {'x': 832, 'y': 4747}, {'x': 832, 'y': 4774}, {'x': 802, 'y': 4774}], Confidence 0.9980
+     Word: 'try', Bounding polygon [{'x': 837, 'y': 4747}, {'x': 860, 'y': 4747}, {'x': 860, 'y': 4774}, {'x': 837, 'y': 4774}], Confidence 0.9980
+     Word: 'our', Bounding polygon [{'x': 865, 'y': 4747}, {'x': 889, 'y': 4747}, {'x': 889, 'y': 4775}, {'x': 865, 'y': 4774}], Confidence 0.9980
+     Word: 'best', Bounding polygon [{'x': 895, 'y': 4747}, {'x': 939, 'y': 4746}, {'x': 939, 'y': 4775}, {'x': 895, 'y': 4775}], Confidence 0.9930
+   Line: 'Best banking experience ever! I do', Bounding box [{'x': 725, 'y': 5052}, {'x': 1208, 'y': 5053}, {'x': 1208, 'y': 5090}, {'x': 725, 'y': 5089}]
+     Word: 'Best', Bounding polygon [{'x': 728, 'y': 5053}, {'x': 787, 'y': 5054}, {'x': 788, 'y': 5089}, {'x': 728, 'y': 5087}], Confidence 0.9930
+     Word: 'banking', Bounding polygon [{'x': 794, 'y': 5054}, {'x': 902, 'y': 5056}, {'x': 903, 'y': 5091}, {'x': 794, 'y': 5089}], Confidence 0.9960
+     Word: 'experience', Bounding polygon [{'x': 909, 'y': 5056}, {'x': 1058, 'y': 5057}, {'x': 1060, 'y': 5089}, {'x': 910, 'y': 5091}], Confidence 0.9940
+     Word: 'ever!', Bounding polygon [{'x': 1065, 'y': 5057}, {'x': 1131, 'y': 5057}, {'x': 1134, 'y': 5087}, {'x': 1067, 'y': 5089}], Confidence 0.9930
+     Word: 'I', Bounding polygon [{'x': 1138, 'y': 5057}, {'x': 1146, 'y': 5057}, {'x': 1149, 'y': 5086}, {'x': 1140, 'y': 5087}], Confidence 0.8990
+     Word: 'do', Bounding polygon [{'x': 1152, 'y': 5057}, {'x': 1188, 'y': 5057}, {'x': 1191, 'y': 5085}, {'x': 1155, 'y': 5086}], Confidence 0.9980
+   Line: 'everything from my mobile phone and', Bounding box [{'x': 715, 'y': 5095}, {'x': 1232, 'y': 5093}, {'x': 1232, 'y': 5128}, {'x': 715, 'y': 5132}]
+     Word: 'everything', Bounding polygon [{'x': 727, 'y': 5096}, {'x': 872, 'y': 5096}, {'x': 871, 'y': 5132}, {'x': 727, 'y': 5132}], Confidence 0.9940
+     Word: 'from', Bounding polygon [{'x': 879, 'y': 5096}, {'x': 934, 'y': 5096}, {'x': 933, 'y': 5132}, {'x': 878, 'y': 5132}], Confidence 0.9880
+     Word: 'my', Bounding polygon [{'x': 946, 'y': 5096}, {'x': 988, 'y': 5096}, {'x': 987, 'y': 5131}, {'x': 945, 'y': 5131}], Confidence 0.9980
+     Word: 'mobile', Bounding polygon [{'x': 995, 'y': 5096}, {'x': 1084, 'y': 5095}, {'x': 1082, 'y': 5130}, {'x': 994, 'y': 5131}], Confidence 0.9960
+     Word: 'phone', Bounding polygon [{'x': 1091, 'y': 5095}, {'x': 1179, 'y': 5094}, {'x': 1177, 'y': 5129}, {'x': 1089, 'y': 5130}], Confidence 0.9930
+     Word: 'and', Bounding polygon [{'x': 1187, 'y': 5094}, {'x': 1231, 'y': 5094}, {'x': 1228, 'y': 5128}, {'x': 1184, 'y': 5129}], Confidence 0.9980
+   Line: 'never had a problem. Even my', Bounding box [{'x': 731, 'y': 5127}, {'x': 1140, 'y': 5133}, {'x': 1139, 'y': 5167}, {'x': 730, 'y': 5162}]
+     Word: 'never', Bounding polygon [{'x': 734, 'y': 5128}, {'x': 804, 'y': 5128}, {'x': 800, 'y': 5165}, {'x': 731, 'y': 5164}], Confidence 0.9490
+     Word: 'had', Bounding polygon [{'x': 811, 'y': 5128}, {'x': 862, 'y': 5129}, {'x': 858, 'y': 5165}, {'x': 807, 'y': 5165}], Confidence 0.9990
+     Word: 'a', Bounding polygon [{'x': 870, 'y': 5129}, {'x': 886, 'y': 5130}, {'x': 881, 'y': 5165}, {'x': 865, 'y': 5165}], Confidence 0.9830
+     Word: 'problem.', Bounding polygon [{'x': 892, 'y': 5130}, {'x': 1013, 'y': 5133}, {'x': 1007, 'y': 5166}, {'x': 888, 'y': 5166}], Confidence 0.9940
+     Word: 'Even', Bounding polygon [{'x': 1019, 'y': 5133}, {'x': 1084, 'y': 5135}, {'x': 1078, 'y': 5167}, {'x': 1014, 'y': 5167}], Confidence 0.9930
+     Word: 'my', Bounding polygon [{'x': 1092, 'y': 5135}, {'x': 1134, 'y': 5137}, {'x': 1128, 'y': 5167}, {'x': 1086, 'y': 5167}], Confidence 0.9990
+   Line: 'grandma's using it now!', Bounding box [{'x': 721, 'y': 5171}, {'x': 1045, 'y': 5172}, {'x': 1045, 'y': 5205}, {'x': 721, 'y': 5204}]
+     Word: 'grandma's', Bounding polygon [{'x': 728, 'y': 5172}, {'x': 865, 'y': 5174}, {'x': 865, 'y': 5205}, {'x': 728, 'y': 5205}], Confidence 0.9930
+     Word: 'using', Bounding polygon [{'x': 872, 'y': 5174}, {'x': 945, 'y': 5174}, {'x': 945, 'y': 5205}, {'x': 872, 'y': 5205}], Confidence 0.9980
+     Word: 'it', Bounding polygon [{'x': 952, 'y': 5174}, {'x': 970, 'y': 5174}, {'x': 970, 'y': 5205}, {'x': 952, 'y': 5205}], Confidence 0.9990
+     Word: 'now!', Bounding polygon [{'x': 977, 'y': 5174}, {'x': 1044, 'y': 5174}, {'x': 1044, 'y': 5204}, {'x': 977, 'y': 5205}], Confidence 0.9890
+   Line: 'Maria, 32', Bounding box [{'x': 726, 'y': 5265}, {'x': 819, 'y': 5270}, {'x': 823, 'y': 5301}, {'x': 726, 'y': 5298}]
+     Word: 'Maria,', Bounding polygon [{'x': 726, 'y': 5265}, {'x': 777, 'y': 5267}, {'x': 775, 'y': 5300}, {'x': 726, 'y': 5298}], Confidence 0.9930
+     Word: '32', Bounding polygon [{'x': 783, 'y': 5267}, {'x': 811, 'y': 5268}, {'x': 810, 'y': 5301}, {'x': 782, 'y': 5300}], Confidence 0.9970
+   Line: 'Limassol, Cyprus', Bounding box [{'x': 734, 'y': 5303}, {'x': 875, 'y': 5305}, {'x': 875, 'y': 5337}, {'x': 734, 'y': 5336}]
+     Word: 'Limassol,', Bounding polygon [{'x': 760, 'y': 5304}, {'x': 822, 'y': 5307}, {'x': 820, 'y': 5335}, {'x': 759, 'y': 5336}], Confidence 0.7120
+     Word: 'Cyprus', Bounding polygon [{'x': 828, 'y': 5307}, {'x': 876, 'y': 5309}, {'x': 873, 'y': 5336}, {'x': 826, 'y': 5335}], Confidence 0.9930
+   Line: '- >', Bounding box [{'x': 740, 'y': 5380}, {'x': 809, 'y': 5387}, {'x': 809, 'y': 5414}, {'x': 740, 'y': 5417}]
+     Word: '-', Bounding polygon [{'x': 740, 'y': 5380}, {'x': 757, 'y': 5380}, {'x': 756, 'y': 5417}, {'x': 740, 'y': 5417}], Confidence 0.9240
+     Word: '>', Bounding polygon [{'x': 786, 'y': 5381}, {'x': 804, 'y': 5382}, {'x': 803, 'y': 5418}, {'x': 785, 'y': 5418}], Confidence 0.3960
+   Line: 'IMMEDIATE HELP', Bounding box [{'x': 131, 'y': 5674}, {'x': 252, 'y': 5673}, {'x': 252, 'y': 5691}, {'x': 131, 'y': 5692}]
+     Word: 'IMMEDIATE', Bounding polygon [{'x': 135, 'y': 5674}, {'x': 216, 'y': 5674}, {'x': 215, 'y': 5692}, {'x': 132, 'y': 5692}], Confidence 0.9930
+     Word: 'HELP', Bounding polygon [{'x': 219, 'y': 5674}, {'x': 252, 'y': 5675}, {'x': 252, 'y': 5691}, {'x': 218, 'y': 5692}], Confidence 0.9590
+   Line: 'WAYS OF BANKING', Bounding box [{'x': 378, 'y': 5668}, {'x': 516, 'y': 5669}, {'x': 516, 'y': 5696}, {'x': 378, 'y': 5695}]
+     Word: 'WAYS', Bounding polygon [{'x': 378, 'y': 5669}, {'x': 418, 'y': 5670}, {'x': 416, 'y': 5696}, {'x': 378, 'y': 5696}], Confidence 0.9950
+     Word: 'OF', Bounding polygon [{'x': 423, 'y': 5670}, {'x': 441, 'y': 5670}, {'x': 438, 'y': 5696}, {'x': 421, 'y': 5696}], Confidence 0.9990
+     Word: 'BANKING', Bounding polygon [{'x': 446, 'y': 5671}, {'x': 516, 'y': 5672}, {'x': 510, 'y': 5696}, {'x': 443, 'y': 5696}], Confidence 0.9940
+   Line: 'INTEREST RATES', Bounding box [{'x': 618, 'y': 5668}, {'x': 745, 'y': 5668}, {'x': 745, 'y': 5698}, {'x': 618, 'y': 5698}]
+     Word: 'INTEREST', Bounding polygon [{'x': 621, 'y': 5668}, {'x': 685, 'y': 5672}, {'x': 685, 'y': 5698}, {'x': 618, 'y': 5693}], Confidence 0.9730
+     Word: 'RATES', Bounding polygon [{'x': 690, 'y': 5672}, {'x': 740, 'y': 5671}, {'x': 743, 'y': 5692}, {'x': 691, 'y': 5698}], Confidence 0.9830
+   Line: 'Lost or theft car', Bounding box [{'x': 132, 'y': 5718}, {'x': 246, 'y': 5721}, {'x': 245, 'y': 5749}, {'x': 132, 'y': 5748}]
+     Word: 'Lost', Bounding polygon [{'x': 133, 'y': 5719}, {'x': 162, 'y': 5721}, {'x': 160, 'y': 5749}, {'x': 133, 'y': 5749}], Confidence 0.9920
+     Word: 'or', Bounding polygon [{'x': 167, 'y': 5721}, {'x': 180, 'y': 5722}, {'x': 177, 'y': 5749}, {'x': 165, 'y': 5749}], Confidence 0.9940
+     Word: 'theft', Bounding polygon [{'x': 185, 'y': 5722}, {'x': 215, 'y': 5724}, {'x': 211, 'y': 5749}, {'x': 182, 'y': 5749}], Confidence 0.9940
+     Word: 'car', Bounding polygon [{'x': 221, 'y': 5724}, {'x': 246, 'y': 5726}, {'x': 240, 'y': 5749}, {'x': 216, 'y': 5749}], Confidence 0.9930
+   Line: 'Using the website', Bounding box [{'x': 370, 'y': 5715}, {'x': 506, 'y': 5721}, {'x': 504, 'y': 5756}, {'x': 370, 'y': 5752}]
+     Word: 'Using', Bounding polygon [{'x': 373, 'y': 5716}, {'x': 409, 'y': 5718}, {'x': 407, 'y': 5754}, {'x': 373, 'y': 5753}], Confidence 0.9930
+     Word: 'the', Bounding polygon [{'x': 415, 'y': 5719}, {'x': 435, 'y': 5720}, {'x': 432, 'y': 5754}, {'x': 413, 'y': 5754}], Confidence 0.9980
+     Word: 'website', Bounding polygon [{'x': 442, 'y': 5721}, {'x': 504, 'y': 5725}, {'x': 498, 'y': 5756}, {'x': 439, 'y': 5755}], Confidence 0.9930
+   Line: 'Using the application', Bounding box [{'x': 367, 'y': 5737}, {'x': 516, 'y': 5738}, {'x': 516, 'y': 5771}, {'x': 367, 'y': 5770}]
+     Word: 'Using', Bounding polygon [{'x': 376, 'y': 5738}, {'x': 411, 'y': 5741}, {'x': 408, 'y': 5771}, {'x': 372, 'y': 5770}], Confidence 0.9890
+     Word: 'the', Bounding polygon [{'x': 417, 'y': 5741}, {'x': 437, 'y': 5742}, {'x': 434, 'y': 5771}, {'x': 414, 'y': 5771}], Confidence 0.9920
+     Word: 'application', Bounding polygon [{'x': 443, 'y': 5743}, {'x': 517, 'y': 5744}, {'x': 514, 'y': 5768}, {'x': 440, 'y': 5771}], Confidence 0.9390
+   Line: 'Exchange rates', Bounding box [{'x': 618, 'y': 5719}, {'x': 729, 'y': 5719}, {'x': 729, 'y': 5749}, {'x': 618, 'y': 5749}]
+     Word: 'Exchange', Bounding polygon [{'x': 621, 'y': 5719}, {'x': 682, 'y': 5722}, {'x': 678, 'y': 5750}, {'x': 618, 'y': 5750}], Confidence 0.9890
+     Word: 'rates', Bounding polygon [{'x': 687, 'y': 5722}, {'x': 729, 'y': 5724}, {'x': 726, 'y': 5748}, {'x': 684, 'y': 5750}], Confidence 0.9940
+   Line: 'Customer support', Bounding box [{'x': 1032, 'y': 5700}, {'x': 1205, 'y': 5700}, {'x': 1205, 'y': 5733}, {'x': 1032, 'y': 5735}]
+     Word: 'Customer', Bounding polygon [{'x': 1042, 'y': 5700}, {'x': 1122, 'y': 5701}, {'x': 1120, 'y': 5735}, {'x': 1041, 'y': 5735}], Confidence 0.9930
+     Word: 'support', Bounding polygon [{'x': 1128, 'y': 5701}, {'x': 1204, 'y': 5702}, {'x': 1201, 'y': 5732}, {'x': 1127, 'y': 5735}], Confidence 0.9940
+   Line: 'Forgot login details', Bounding box [{'x': 121, 'y': 5736}, {'x': 266, 'y': 5739}, {'x': 265, 'y': 5769}, {'x': 121, 'y': 5766}]
+     Word: 'Forgot', Bounding polygon [{'x': 132, 'y': 5738}, {'x': 171, 'y': 5743}, {'x': 170, 'y': 5767}, {'x': 132, 'y': 5767}], Confidence 0.5860
+     Word: 'login', Bounding polygon [{'x': 177, 'y': 5743}, {'x': 213, 'y': 5745}, {'x': 210, 'y': 5768}, {'x': 175, 'y': 5767}], Confidence 0.5380
+     Word: 'details', Bounding polygon [{'x': 218, 'y': 5745}, {'x': 265, 'y': 5742}, {'x': 261, 'y': 5769}, {'x': 216, 'y': 5768}], Confidence 0.7170
+   Line: 'Charges', Bounding box [{'x': 621, 'y': 5740}, {'x': 703, 'y': 5743}, {'x': 699, 'y': 5773}, {'x': 614, 'y': 5770}]
+     Word: 'Charges', Bounding polygon [{'x': 616, 'y': 5740}, {'x': 683, 'y': 5741}, {'x': 682, 'y': 5772}, {'x': 615, 'y': 5770}], Confidence 0.9340
+   Line: 'All the answers gathered in one area', Bounding box [{'x': 1034, 'y': 5715}, {'x': 1282, 'y': 5720}, {'x': 1282, 'y': 5749}, {'x': 1033, 'y': 5743}]
+     Word: 'All', Bounding polygon [{'x': 1045, 'y': 5716}, {'x': 1057, 'y': 5716}, {'x': 1055, 'y': 5744}, {'x': 1041, 'y': 5744}], Confidence 0.9360
+     Word: 'the', Bounding polygon [{'x': 1063, 'y': 5716}, {'x': 1083, 'y': 5716}, {'x': 1081, 'y': 5745}, {'x': 1060, 'y': 5744}], Confidence 0.9980
+     Word: 'answers', Bounding polygon [{'x': 1089, 'y': 5716}, {'x': 1143, 'y': 5718}, {'x': 1141, 'y': 5747}, {'x': 1086, 'y': 5745}], Confidence 0.9940
+     Word: 'gathered', Bounding polygon [{'x': 1148, 'y': 5718}, {'x': 1204, 'y': 5719}, {'x': 1203, 'y': 5748}, {'x': 1146, 'y': 5747}], Confidence 0.9940
+     Word: 'in', Bounding polygon [{'x': 1209, 'y': 5720}, {'x': 1220, 'y': 5720}, {'x': 1219, 'y': 5748}, {'x': 1208, 'y': 5748}], Confidence 0.9940
+     Word: 'one', Bounding polygon [{'x': 1226, 'y': 5720}, {'x': 1250, 'y': 5721}, {'x': 1249, 'y': 5748}, {'x': 1225, 'y': 5748}], Confidence 0.9940
+     Word: 'area', Bounding polygon [{'x': 1255, 'y': 5721}, {'x': 1281, 'y': 5722}, {'x': 1281, 'y': 5749}, {'x': 1255, 'y': 5748}], Confidence 0.7290
+   Line: 'Suspicious transaction', Bounding box [{'x': 127, 'y': 5782}, {'x': 280, 'y': 5784}, {'x': 280, 'y': 5813}, {'x': 127, 'y': 5812}]
+     Word: 'Suspicious', Bounding polygon [{'x': 135, 'y': 5783}, {'x': 204, 'y': 5786}, {'x': 204, 'y': 5813}, {'x': 135, 'y': 5813}], Confidence 0.9660
+     Word: 'transaction', Bounding polygon [{'x': 209, 'y': 5786}, {'x': 280, 'y': 5788}, {'x': 280, 'y': 5810}, {'x': 209, 'y': 5813}], Confidence 0.5970
+   Line: 'Card retained at ATM', Bounding box [{'x': 132, 'y': 5801}, {'x': 286, 'y': 5804}, {'x': 285, 'y': 5837}, {'x': 131, 'y': 5833}]
+     Word: 'Card', Bounding polygon [{'x': 132, 'y': 5804}, {'x': 157, 'y': 5803}, {'x': 159, 'y': 5832}, {'x': 135, 'y': 5834}], Confidence 0.9180
+     Word: 'retained', Bounding polygon [{'x': 162, 'y': 5802}, {'x': 220, 'y': 5803}, {'x': 220, 'y': 5830}, {'x': 164, 'y': 5831}], Confidence 0.8230
+     Word: 'at', Bounding polygon [{'x': 226, 'y': 5803}, {'x': 238, 'y': 5804}, {'x': 237, 'y': 5832}, {'x': 225, 'y': 5831}], Confidence 0.9930
+     Word: 'ATM', Bounding polygon [{'x': 244, 'y': 5805}, {'x': 278, 'y': 5809}, {'x': 275, 'y': 5836}, {'x': 243, 'y': 5832}], Confidence 0.9240
+   Line: 'Using an ATM', Bounding box [{'x': 373, 'y': 5775}, {'x': 496, 'y': 5778}, {'x': 496, 'y': 5809}, {'x': 373, 'y': 5806}]
+     Word: 'Using', Bounding polygon [{'x': 374, 'y': 5776}, {'x': 409, 'y': 5777}, {'x': 408, 'y': 5807}, {'x': 374, 'y': 5806}], Confidence 0.9920
+     Word: 'an', Bounding polygon [{'x': 415, 'y': 5777}, {'x': 429, 'y': 5777}, {'x': 428, 'y': 5808}, {'x': 414, 'y': 5807}], Confidence 0.9920
+     Word: 'ATM', Bounding polygon [{'x': 435, 'y': 5777}, {'x': 472, 'y': 5778}, {'x': 469, 'y': 5809}, {'x': 433, 'y': 5808}], Confidence 0.9510
+   Line: 'Charges', Bounding box [{'x': 616, 'y': 5761}, {'x': 694, 'y': 5767}, {'x': 691, 'y': 5794}, {'x': 612, 'y': 5791}]
+     Word: 'Charges', Bounding polygon [{'x': 614, 'y': 5761}, {'x': 683, 'y': 5764}, {'x': 681, 'y': 5794}, {'x': 612, 'y': 5790}], Confidence 0.9720
+   Line: 'ard retained at ATM', Bounding box [{'x': 148, 'y': 5820}, {'x': 282, 'y': 5819}, {'x': 283, 'y': 5849}, {'x': 149, 'y': 5850}]
+     Word: 'ard', Bounding polygon [{'x': 149, 'y': 5824}, {'x': 161, 'y': 5823}, {'x': 164, 'y': 5851}, {'x': 152, 'y': 5851}], Confidence 0.9250
+     Word: 'retained', Bounding polygon [{'x': 166, 'y': 5822}, {'x': 221, 'y': 5820}, {'x': 225, 'y': 5848}, {'x': 170, 'y': 5851}], Confidence 0.9890
+     Word: 'at', Bounding polygon [{'x': 227, 'y': 5820}, {'x': 239, 'y': 5820}, {'x': 242, 'y': 5847}, {'x': 230, 'y': 5848}], Confidence 0.9960
+     Word: 'ATM', Bounding polygon [{'x': 244, 'y': 5820}, {'x': 274, 'y': 5823}, {'x': 277, 'y': 5846}, {'x': 248, 'y': 5847}], Confidence 0.9930
+   Line: 'Visiting a branch', Bounding box [{'x': 362, 'y': 5809}, {'x': 489, 'y': 5809}, {'x': 489, 'y': 5840}, {'x': 362, 'y': 5840}]
+     Word: 'Visiting', Bounding polygon [{'x': 374, 'y': 5810}, {'x': 424, 'y': 5810}, {'x': 421, 'y': 5839}, {'x': 371, 'y': 5840}], Confidence 0.9820
+     Word: 'a', Bounding polygon [{'x': 430, 'y': 5810}, {'x': 435, 'y': 5810}, {'x': 432, 'y': 5839}, {'x': 426, 'y': 5839}], Confidence 0.9940
+     Word: 'branch', Bounding polygon [{'x': 441, 'y': 5810}, {'x': 488, 'y': 5815}, {'x': 485, 'y': 5839}, {'x': 438, 'y': 5839}], Confidence 0.9890
+   Line: 'Share price', Bounding box [{'x': 618, 'y': 5779}, {'x': 712, 'y': 5785}, {'x': 709, 'y': 5812}, {'x': 615, 'y': 5812}]
+     Word: 'Share', Bounding polygon [{'x': 616, 'y': 5779}, {'x': 650, 'y': 5780}, {'x': 649, 'y': 5813}, {'x': 615, 'y': 5812}], Confidence 0.9880
+     Word: 'price', Bounding polygon [{'x': 657, 'y': 5780}, {'x': 702, 'y': 5782}, {'x': 701, 'y': 5813}, {'x': 656, 'y': 5813}], Confidence 0.9780
+   Line: 'Sens Transfer', Bounding box [{'x': 616, 'y': 5804}, {'x': 712, 'y': 5807}, {'x': 711, 'y': 5838}, {'x': 614, 'y': 5832}]
+     Word: 'Sens', Bounding polygon [{'x': 619, 'y': 5809}, {'x': 653, 'y': 5806}, {'x': 651, 'y': 5829}, {'x': 616, 'y': 5833}], Confidence 0.7220
+     Word: 'Transfer', Bounding polygon [{'x': 658, 'y': 5805}, {'x': 710, 'y': 5815}, {'x': 710, 'y': 5838}, {'x': 656, 'y': 5828}], Confidence 0.9320
+   Line: 'Book an appointment', Bounding box [{'x': 1034, 'y': 5807}, {'x': 1233, 'y': 5814}, {'x': 1232, 'y': 5848}, {'x': 1032, 'y': 5844}]
+     Word: 'Book', Bounding polygon [{'x': 1042, 'y': 5808}, {'x': 1082, 'y': 5812}, {'x': 1079, 'y': 5847}, {'x': 1039, 'y': 5845}], Confidence 0.9920
+     Word: 'an', Bounding polygon [{'x': 1088, 'y': 5812}, {'x': 1107, 'y': 5814}, {'x': 1105, 'y': 5847}, {'x': 1086, 'y': 5847}], Confidence 0.9960
+     Word: 'appointment', Bounding polygon [{'x': 1113, 'y': 5814}, {'x': 1228, 'y': 5820}, {'x': 1228, 'y': 5846}, {'x': 1111, 'y': 5847}], Confidence 0.9890
+   Line: 'BAN Convert', Bounding box [{'x': 138, 'y': 5845}, {'x': 226, 'y': 5847}, {'x': 225, 'y': 5870}, {'x': 138, 'y': 5869}]
+     Word: 'BAN', Bounding polygon [{'x': 138, 'y': 5846}, {'x': 167, 'y': 5847}, {'x': 166, 'y': 5869}, {'x': 138, 'y': 5869}], Confidence 0.9930
+     Word: 'Convert', Bounding polygon [{'x': 171, 'y': 5847}, {'x': 226, 'y': 5849}, {'x': 223, 'y': 5869}, {'x': 170, 'y': 5869}], Confidence 0.9940
+   Line: 'Visit a branch or arrange an online meeting', Bounding box [{'x': 1037, 'y': 5829}, {'x': 1331, 'y': 5837}, {'x': 1330, 'y': 5867}, {'x': 1037, 'y': 5862}]
+     Word: 'Visit', Bounding polygon [{'x': 1041, 'y': 5829}, {'x': 1068, 'y': 5831}, {'x': 1068, 'y': 5864}, {'x': 1041, 'y': 5863}], Confidence 0.9880
+     Word: 'a', Bounding polygon [{'x': 1073, 'y': 5831}, {'x': 1079, 'y': 5831}, {'x': 1079, 'y': 5864}, {'x': 1073, 'y': 5864}], Confidence 0.9940
+     Word: 'branch', Bounding polygon [{'x': 1085, 'y': 5832}, {'x': 1131, 'y': 5834}, {'x': 1131, 'y': 5865}, {'x': 1085, 'y': 5864}], Confidence 0.9940
+     Word: 'or', Bounding polygon [{'x': 1137, 'y': 5834}, {'x': 1148, 'y': 5835}, {'x': 1148, 'y': 5865}, {'x': 1137, 'y': 5865}], Confidence 0.9940
+     Word: 'arrange', Bounding polygon [{'x': 1154, 'y': 5835}, {'x': 1204, 'y': 5837}, {'x': 1204, 'y': 5866}, {'x': 1154, 'y': 5865}], Confidence 0.9890
+     Word: 'an', Bounding polygon [{'x': 1209, 'y': 5838}, {'x': 1223, 'y': 5838}, {'x': 1223, 'y': 5866}, {'x': 1209, 'y': 5866}], Confidence 0.9910
+     Word: 'online', Bounding polygon [{'x': 1228, 'y': 5839}, {'x': 1265, 'y': 5840}, {'x': 1265, 'y': 5866}, {'x': 1228, 'y': 5866}], Confidence 0.9940
+     Word: 'meeting', Bounding polygon [{'x': 1271, 'y': 5840}, {'x': 1330, 'y': 5842}, {'x': 1330, 'y': 5867}, {'x': 1271, 'y': 5867}], Confidence 0.9930
+   Line: '8000 9999 or +357 22500500', Bounding box [{'x': 1037, 'y': 5923}, {'x': 1307, 'y': 5928}, {'x': 1306, 'y': 5966}, {'x': 1037, 'y': 5964}]
+     Word: '8000', Bounding polygon [{'x': 1042, 'y': 5924}, {'x': 1083, 'y': 5926}, {'x': 1082, 'y': 5965}, {'x': 1042, 'y': 5965}], Confidence 0.9770
+     Word: '9999', Bounding polygon [{'x': 1090, 'y': 5926}, {'x': 1131, 'y': 5927}, {'x': 1130, 'y': 5965}, {'x': 1090, 'y': 5965}], Confidence 0.9890
+     Word: 'or', Bounding polygon [{'x': 1138, 'y': 5928}, {'x': 1155, 'y': 5928}, {'x': 1154, 'y': 5965}, {'x': 1137, 'y': 5965}], Confidence 0.9840
+     Word: '+357', Bounding polygon [{'x': 1162, 'y': 5928}, {'x': 1201, 'y': 5930}, {'x': 1199, 'y': 5965}, {'x': 1161, 'y': 5965}], Confidence 0.9870
+     Word: '22500500', Bounding polygon [{'x': 1208, 'y': 5930}, {'x': 1304, 'y': 5933}, {'x': 1301, 'y': 5966}, {'x': 1206, 'y': 5965}], Confidence 0.9940
+   Line: '(Excl. bank holidays)', Bounding box [{'x': 1034, 'y': 5970}, {'x': 1203, 'y': 5969}, {'x': 1203, 'y': 5999}, {'x': 1034, 'y': 5999}]
+     Word: '(Excl.', Bounding polygon [{'x': 1043, 'y': 5970}, {'x': 1077, 'y': 5971}, {'x': 1074, 'y': 6000}, {'x': 1040, 'y': 5997}], Confidence 0.8330
+     Word: 'bank', Bounding polygon [{'x': 1082, 'y': 5971}, {'x': 1114, 'y': 5972}, {'x': 1112, 'y': 6000}, {'x': 1080, 'y': 6000}], Confidence 0.9880
+     Word: 'holidays)', Bounding polygon [{'x': 1119, 'y': 5972}, {'x': 1188, 'y': 5974}, {'x': 1187, 'y': 5995}, {'x': 1117, 'y': 6000}], Confidence 0.8360
+   Line: 'Legal information Privacy Notice Terms and conditions', Bounding box [{'x': 133, 'y': 6003}, {'x': 543, 'y': 6005}, {'x': 543, 'y': 6027}, {'x': 132, 'y': 6024}]
+     Word: 'Legal', Bounding polygon [{'x': 136, 'y': 6003}, {'x': 170, 'y': 6003}, {'x': 167, 'y': 6025}, {'x': 133, 'y': 6025}], Confidence 0.9940
+     Word: 'information', Bounding polygon [{'x': 174, 'y': 6003}, {'x': 253, 'y': 6003}, {'x': 250, 'y': 6024}, {'x': 171, 'y': 6025}], Confidence 0.9940
+     Word: 'Privacy', Bounding polygon [{'x': 270, 'y': 6003}, {'x': 318, 'y': 6004}, {'x': 315, 'y': 6025}, {'x': 267, 'y': 6025}], Confidence 0.9940
+     Word: 'Notice', Bounding polygon [{'x': 322, 'y': 6004}, {'x': 369, 'y': 6004}, {'x': 365, 'y': 6025}, {'x': 319, 'y': 6025}], Confidence 0.9930
+     Word: 'Terms', Bounding polygon [{'x': 387, 'y': 6004}, {'x': 427, 'y': 6005}, {'x': 424, 'y': 6026}, {'x': 384, 'y': 6025}], Confidence 0.9930
+     Word: 'and', Bounding polygon [{'x': 431, 'y': 6005}, {'x': 455, 'y': 6005}, {'x': 452, 'y': 6026}, {'x': 428, 'y': 6026}], Confidence 0.9970
+     Word: 'conditions', Bounding polygon [{'x': 459, 'y': 6005}, {'x': 532, 'y': 6006}, {'x': 529, 'y': 6028}, {'x': 456, 'y': 6026}], Confidence 0.9890
