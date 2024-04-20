@@ -21,61 +21,74 @@ client = ImageAnalysisClient(
     credential=AzureKeyCredential(key)
 )
 
-def compare_pages(path_to_web:str,path_to_figma:str):
-    ### open web
-    with open(path_to_web, "rb") as f:
+def get_points(polygon_points):
+    min_x = float('inf')
+    min_y = float('inf')
+    max_x = float('-inf')
+    max_y = float('-inf')
+
+    for point in polygon_points:
+        x, y = point.x, point.y
+        min_x = min(min_x, x)
+        min_y = min(min_y, y)
+        max_x = max(max_x, x)
+        max_y = max(max_y, y)
+
+    top_left = (min_x, min_y)
+    bottom_right = (max_x, max_y)
+
+    return top_left, bottom_right
+
+def crop_image(path_to_png,box,new_img_name):
+    image = Image.open(path_to_png)
+    cropped_image = image.crop(box)
+    cropped_image.save(new_img_name)
+    #print(f'Crop {new_img_name}')
+
+def analyze_image(path_to_img,path_to_crops,path_to_res):
+    with open(path_to_img, "rb") as f:
         web_page_data = f.read()
-    WEB_READ_results = client.analyze(
+    READ_results = client.analyze(
         image_data=web_page_data,
         visual_features=[VisualFeatures.READ]
     )
+    if READ_results.read is not None:
+        res_file = open(path_to_res,'w')
+        results = []
+        idx = 0
+        for line in READ_results.read.blocks[0].lines:
+            top_left, bottom_right = get_points(line.bounding_polygon)
+            box = (top_left[0],top_left[1],
+                   bottom_right[0],bottom_right[1])
+            #print(box)
+            path_to_crop = f"{path_to_crops}//{idx}.png"
+            crop_image(path_to_img,box,path_to_crop)
 
-    ### open figma
-    with open(path_to_figma, "rb") as f:
-        web_page_data = f.read()
-    FIGMA_READ_results = client.analyze(
-        image_data=web_page_data,
-        visual_features=[VisualFeatures.READ]
-    )
-    error_boxes = []
-    error_file = open(f'error.txt','w')
-    web_file = open('web_res.txt','w')
-    figma_file = open('figma_res.txt','w')
-    error_file.write('ERRORS FOUND IN WEB: \n')
-    if WEB_READ_results.read is not None and FIGMA_READ_results.read is not None:
-        for web_line,figma_line in zip(WEB_READ_results.read.blocks[0].lines,FIGMA_READ_results.read.blocks[0].lines):
-            # box = [  ## (x0,y0)(x1,y1) are the [0],[2] elements of the list
-            #         (line.bounding_polygon[0]['x'],line.bounding_polygon[0]['y']),
-            #         (line.bounding_polygon[2]['x'],line.bounding_polygon[2]['y'])
-            #         ]
-            # text = line.text
-            # line_bounding_boxes.append(box) 
+            data = {'text':line.text, 'box':box, 'crop_path':path_to_crop}
+            results.append(data)
+            idx+=1
+            res_file.write(f"Text: '{line.text}', Bounding box: {box}\n")
+    return results
 
+def concat_json(image_results, font_results):
+    final = {}
+    for res1 in image_results:
+        for res2 in font_results:
+            if res1['crop_path'] == res2['crop_path']:
+                final = {'text':res1['text'],'box':res1['box'],'crop_path':res1['crop_path'],
+                         'fonts':res2['fonts'],'type':res2['type']}
 
-            web_file.write(f"   Line: '{web_line.text}', Bounding box {web_line.bounding_polygon}\n")
-            figma_file.write(f"   Line: '{figma_line.text}', Bounding box {figma_line.bounding_polygon}\n")
-            ### check for any different result
-            if web_line.text != figma_line.text or web_line.bounding_polygon != figma_line.bounding_polygon:
-                print( "ERROR",web_line.text)
-                error_file.write(f"   Line: '{web_line.text}', Bounding box {web_line.bounding_polygon}\n")
-                box = [  ## (x0,y0)(x1,y1) are the [0],[2] elements of the list
-                        (web_line.bounding_polygon[0]['x'],web_line.bounding_polygon[0]['y']),
-                        (web_line.bounding_polygon[2]['x'],web_line.bounding_polygon[2]['y'])
-                    ]
-                error_boxes.append(box)
-            # for word in line.words:
-            #     res_file.write(f"     Word: '{word.text}', Bounding polygon {word.bounding_polygon}, Confidence {word.confidence:.4f}\n")
-    return error_boxes
+# path_to_dir = ".\\Figmas_and_Web_pages\\"
+# results = analyze_image(f"{path_to_dir}\\Web_page.png",f"{path_to_dir}\\web_crops",f"{path_to_dir}\\web_res.txt")
+##text,pos,both = compare_pages(f"{path_to_dir}Web_page.png",f"{path_to_dir}Figma_design.png")
+## draw_boxes("Web_page.png",text,pos,both)
 
-def draw_boxes(path_to_png:str,box_list:list):
-    page = Image.open(path_to_png)
-    draw = ImageDraw.Draw(page)
-    for box in box_list:
-        draw.rectangle(box,outline="red")
-    page.save(f"{path_to_png.split('.')[0]}_with_errors.png")
+dict1 = {'a': 1, 'b': 2, 'c': 3}
+dict2 = {'b': 4, 'c': 5, 'd': 6}
 
-            
+common_key = 'c'
 
-errors = compare_pages("Web_page.png","Figma_design.png")
-print(errors)
-draw_boxes("Web_page.png",errors)
+dict1.update((key, (dict1.get(key), dict2.get(key))) for key in dict1 if key in dict2)
+
+print(dict1)
+

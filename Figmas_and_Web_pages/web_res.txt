@@ -1,105 +1,109 @@
-   Line: 'Om® HELLENIC BANK', Bounding box [{'x': 132, 'y': 34}, {'x': 563, 'y': 33}, {'x': 564, 'y': 76}, {'x': 132, 'y': 78}]
-   Line: 'PERSONAL BUSINESS INTERNATIONAL THE GROUP GR', Bounding box [{'x': 1279, 'y': 46}, {'x': 1782, 'y': 46}, {'x': 1782, 'y': 72}, {'x': 1279, 'y': 73}]
-   Line: 'Accounts Cards Loans Green Products Digital Banking Wealth Insurance', Bounding box [{'x': 144, 'y': 115}, {'x': 1085, 'y': 115}, {'x': 1085, 'y': 152}, {'x': 144, 'y': 152}]
-   Line: 'Q & Online Banking', Bounding box [{'x': 1426, 'y': 115}, {'x': 1790, 'y': 115}, {'x': 1790, 'y': 151}, {'x': 1426, 'y': 153}]
-   Line: 'Save time,', Bounding box [{'x': 138, 'y': 378}, {'x': 520, 'y': 380}, {'x': 520, 'y': 456}, {'x': 138, 'y': 455}]
-   Line: 'start online', Bounding box [{'x': 131, 'y': 473}, {'x': 565, 'y': 475}, {'x': 564, 'y': 545}, {'x': 131, 'y': 543}]
-   Line: 'We have you covered. Skip the wait and apply online', Bounding box [{'x': 126, 'y': 576}, {'x': 663, 'y': 575}, {'x': 663, 'y': 614}, {'x': 126, 'y': 616}]
-   Line: 'Learn More', Bounding box [{'x': 173, 'y': 700}, {'x': 287, 'y': 701}, {'x': 286, 'y': 737}, {'x': 173, 'y': 736}]
-   Line: '8 metra tour', Bounding box [{'x': 1069, 'y': 684}, {'x': 1151, 'y': 673}, {'x': 1155, 'y': 698}, {'x': 1069, 'y': 713}]
-   Line: 'GREEN CAR', Bounding box [{'x': 1593, 'y': 1005}, {'x': 1593, 'y': 877}, {'x': 1632, 'y': 877}, {'x': 1631, 'y': 1005}]
-   Line: 'MOBILE LENDING PRODUCTS', Bounding box [{'x': 860, 'y': 1025}, {'x': 861, 'y': 677}, {'x': 896, 'y': 677}, {'x': 894, 'y': 1025}]
-   Line: 'HOUSING LOANS', Bounding box [{'x': 1476, 'y': 1026}, {'x': 1462, 'y': 776}, {'x': 1508, 'y': 774}, {'x': 1518, 'y': 1025}]
-   Line: 'CREDIT CARDS', Bounding box [{'x': 1707, 'y': 1040}, {'x': 1715, 'y': 777}, {'x': 1758, 'y': 778}, {'x': 1747, 'y': 1042}]
-   Line: '-', Bounding box [{'x': 939, 'y': 1185}, {'x': 944, 'y': 1117}, {'x': 978, 'y': 1120}, {'x': 975, 'y': 1188}]
-   Line: 'Be digital', Bounding box [{'x': 772, 'y': 1260}, {'x': 1140, 'y': 1265}, {'x': 1139, 'y': 1342}, {'x': 772, 'y': 1339}]
-   Line: 'We've got you covered', Bounding box [{'x': 637, 'y': 1372}, {'x': 1265, 'y': 1375}, {'x': 1265, 'y': 1440}, {'x': 637, 'y': 1438}]
-   Line: 'Online Banking', Bounding box [{'x': 178, 'y': 1564}, {'x': 440, 'y': 1570}, {'x': 439, 'y': 1605}, {'x': 178, 'y': 1602}]
-   Line: 'Mobile Banking', Bounding box [{'x': 1027, 'y': 1568}, {'x': 1273, 'y': 1569}, {'x': 1273, 'y': 1608}, {'x': 1026, 'y': 1606}]
-   Line: 'The smart way to tap into your', Bounding box [{'x': 169, 'y': 1680}, {'x': 505, 'y': 1676}, {'x': 505, 'y': 1709}, {'x': 169, 'y': 1713}]
-   Line: 'manage your day-to-day banking', Bounding box [{'x': 181, 'y': 1722}, {'x': 528, 'y': 1723}, {'x': 528, 'y': 1762}, {'x': 181, 'y': 1761}]
-   Line: 'you to manage your accounts,.', Bounding box [{'x': 1017, 'y': 1708}, {'x': 1341, 'y': 1711}, {'x': 1341, 'y': 1748}, {'x': 1017, 'y': 1744}]
-   Line: 'online from anyplace at any time.', Bounding box [{'x': 184, 'y': 1753}, {'x': 526, 'y': 1753}, {'x': 527, 'y': 1780}, {'x': 184, 'y': 1782}]
-   Line: 'make transfers and pay your bills', Bounding box [{'x': 1019, 'y': 1728}, {'x': 1348, 'y': 1728}, {'x': 1348, 'y': 1763}, {'x': 1019, 'y': 1764}]
-   Line: 'online from anyplace, a', Bounding box [{'x': 190, 'y': 1765}, {'x': 418, 'y': 1766}, {'x': 417, 'y': 1795}, {'x': 190, 'y': 1794}]
-   Line: 'at home or on the go . Our', Bounding box [{'x': 1016, 'y': 1751}, {'x': 1327, 'y': 1749}, {'x': 1327, 'y': 1786}, {'x': 1016, 'y': 1787}]
-   Line: 'featured videos quide you on how', Bounding box [{'x': 1012, 'y': 1775}, {'x': 1364, 'y': 1781}, {'x': 1364, 'y': 1814}, {'x': 1012, 'y': 1809}]
-   Line: 'featured videos guide you on hov', Bounding box [{'x': 1016, 'y': 1800}, {'x': 1354, 'y': 1799}, {'x': 1355, 'y': 1831}, {'x': 1016, 'y': 1835}]
-   Line: 'you can make use of our most', Bounding box [{'x': 1014, 'y': 1820}, {'x': 1336, 'y': 1818}, {'x': 1337, 'y': 1848}, {'x': 1014, 'y': 1854}]
-   Line: 'popular features.', Bounding box [{'x': 1024, 'y': 1843}, {'x': 1206, 'y': 1849}, {'x': 1205, 'y': 1882}, {'x': 1023, 'y': 1878}]
-   Line: 'Learn More >', Bounding box [{'x': 184, 'y': 1920}, {'x': 355, 'y': 1920}, {'x': 355, 'y': 1948}, {'x': 184, 'y': 1949}]
-   Line: 'Learn More >', Bounding box [{'x': 1026, 'y': 1911}, {'x': 1192, 'y': 1911}, {'x': 1193, 'y': 1942}, {'x': 1026, 'y': 1944}]
-   Line: 'Digital Wallets', Bounding box [{'x': 181, 'y': 2075}, {'x': 424, 'y': 2075}, {'x': 424, 'y': 2118}, {'x': 181, 'y': 2117}]
-   Line: 'Mple Rewards Scheme', Bounding box [{'x': 1152, 'y': 2073}, {'x': 1541, 'y': 2075}, {'x': 1540, 'y': 2117}, {'x': 1152, 'y': 2116}]
-   Line: 'The smart way to pay with your', Bounding box [{'x': 179, 'y': 2188}, {'x': 523, 'y': 2188}, {'x': 523, 'y': 2222}, {'x': 179, 'y': 2223}]
-   Line: 'smartphone . Add your Hellenic Bank', Bounding box [{'x': 183, 'y': 2212}, {'x': 569, 'y': 2213}, {'x': 569, 'y': 2249}, {'x': 183, 'y': 2249}]
-   Line: 'Pay with your Hellenic Bank card at m', Bounding box [{'x': 1136, 'y': 2187}, {'x': 1534, 'y': 2187}, {'x': 1534, 'y': 2221}, {'x': 1136, 'y': 2222}]
-   Line: 'cards to your smartphone or smartwatch', Bounding box [{'x': 172, 'y': 2231}, {'x': 588, 'y': 2232}, {'x': 587, 'y': 2269}, {'x': 172, 'y': 2269}]
-   Line: 'participating scheme and earn cashback in your Mple', Bounding box [{'x': 1148, 'y': 2211}, {'x': 1687, 'y': 2208}, {'x': 1688, 'y': 2244}, {'x': 1148, 'y': 2250}]
-   Line: 't and simple contactless', Bounding box [{'x': 315, 'y': 2260}, {'x': 595, 'y': 2260}, {'x': 596, 'y': 2290}, {'x': 315, 'y': 2292}]
-   Line: 'Rewards app.', Bounding box [{'x': 1145, 'y': 2231}, {'x': 1318, 'y': 2233}, {'x': 1318, 'y': 2269}, {'x': 1145, 'y': 2267}]
-   Line: 'and make fast and simple contactless', Bounding box [{'x': 176, 'y': 2278}, {'x': 572, 'y': 2273}, {'x': 573, 'y': 2304}, {'x': 176, 'y': 2314}]
-   Line: 'payments.', Bounding box [{'x': 187, 'y': 2302}, {'x': 290, 'y': 2302}, {'x': 290, 'y': 2329}, {'x': 187, 'y': 2331}]
-   Line: 'Learn More >', Bounding box [{'x': 181, 'y': 2371}, {'x': 338, 'y': 2371}, {'x': 339, 'y': 2401}, {'x': 181, 'y': 2404}]
-   Line: 'Learn More >', Bounding box [{'x': 1150, 'y': 2376}, {'x': 1323, 'y': 2376}, {'x': 1324, 'y': 2403}, {'x': 1150, 'y': 2405}]
-   Line: 'We are here to help you every step of the way', Bounding box [{'x': 129, 'y': 2606}, {'x': 1392, 'y': 2610}, {'x': 1392, 'y': 2676}, {'x': 129, 'y': 2673}]
-   Line: 'Choose the account that suits you', Bounding box [{'x': 134, 'y': 2686}, {'x': 498, 'y': 2686}, {'x': 498, 'y': 2726}, {'x': 134, 'y': 2728}]
-   Line: 'Basic', Bounding box [{'x': 293, 'y': 2809}, {'x': 358, 'y': 2813}, {'x': 358, 'y': 2845}, {'x': 293, 'y': 2845}]
-   Line: 'Current Joint', Bounding box [{'x': 389, 'y': 2812}, {'x': 562, 'y': 2812}, {'x': 562, 'y': 2850}, {'x': 389, 'y': 2849}]
-   Line: 'Basic Account', Bounding box [{'x': 282, 'y': 2968}, {'x': 521, 'y': 2970}, {'x': 520, 'y': 3010}, {'x': 282, 'y': 3009}]
-   Line: 'Daily Banking, Made Easy.', Bounding box [{'x': 272, 'y': 3068}, {'x': 537, 'y': 3068}, {'x': 537, 'y': 3103}, {'x': 272, 'y': 3104}]
-   Line: 'Our Basic Account gives you the essentials needed', Bounding box [{'x': 278, 'y': 3128}, {'x': 794, 'y': 3128}, {'x': 794, 'y': 3169}, {'x': 278, 'y': 3170}]
-   Line: 'v-to-day banking with inst', Bounding box [{'x': 336, 'y': 3147}, {'x': 636, 'y': 3145}, {'x': 636, 'y': 3182}, {'x': 337, 'y': 3186}]
-   Line: 'Open an Account', Bounding box [{'x': 296, 'y': 3286}, {'x': 493, 'y': 3286}, {'x': 493, 'y': 3321}, {'x': 296, 'y': 3323}]
-   Line: 'Learn more ->', Bounding box [{'x': 550, 'y': 3290}, {'x': 726, 'y': 3290}, {'x': 726, 'y': 3315}, {'x': 550, 'y': 3315}]
-   Line: 'Banking made simple', Bounding box [{'x': 964, 'y': 3687}, {'x': 1329, 'y': 3688}, {'x': 1329, 'y': 3737}, {'x': 964, 'y': 3736}]
-   Line: 'My accounts', Bounding box [{'x': 381, 'y': 3716}, {'x': 450, 'y': 3716}, {'x': 450, 'y': 3729}, {'x': 381, 'y': 3730}]
-   Line: 'Keep on top of your finances and view al', Bounding box [{'x': 960, 'y': 3783}, {'x': 1378, 'y': 3786}, {'x': 1377, 'y': 3826}, {'x': 960, 'y': 3825}]
-   Line: 'cards and loans online. Check your account balances, view', Bounding box [{'x': 973, 'y': 3812}, {'x': 1604, 'y': 3813}, {'x': 1604, 'y': 3852}, {'x': 973, 'y': 3851}]
-   Line: 'transactions, make payments, set up Time Deposits, transfers and', Bounding box [{'x': 967, 'y': 3829}, {'x': 1638, 'y': 3830}, {'x': 1638, 'y': 3873}, {'x': 967, 'y': 3873}]
-   Line: 'ware_ cons, make payments,', Bounding box [{'x': 969, 'y': 3858}, {'x': 1271, 'y': 3850}, {'x': 1272, 'y': 3881}, {'x': 969, 'y': 3892}]
-   Line: 'Register Online', Bounding box [{'x': 1007, 'y': 3996}, {'x': 1164, 'y': 3996}, {'x': 1164, 'y': 4037}, {'x': 1007, 'y': 4039}]
-   Line: 'We believe in', Bounding box [{'x': 491, 'y': 4435}, {'x': 1414, 'y': 4435}, {'x': 1415, 'y': 4570}, {'x': 491, 'y': 4571}]
-   Line: 'a greener world', Bounding box [{'x': 405, 'y': 4642}, {'x': 1501, 'y': 4622}, {'x': 1502, 'y': 4755}, {'x': 405, 'y': 4779}]
-   Line: 'enic Bank Mastercard cards are made from biodegradable, environme', Bounding box [{'x': 576, 'y': 4829}, {'x': 1268, 'y': 4830}, {'x': 1268, 'y': 4869}, {'x': 576, 'y': 4868}]
-   Line: 'material, requiring 82% less PVC to produce. In the coming year, the same green practice will', Bounding box [{'x': 484, 'y': 4858}, {'x': 1426, 'y': 4858}, {'x': 1426, 'y': 4904}, {'x': 484, 'y': 4902}]
-   Line: 'be applied to all biodegradable Visa cards as well .', Bounding box [{'x': 666, 'y': 4886}, {'x': 1225, 'y': 4884}, {'x': 1225, 'y': 4916}, {'x': 666, 'y': 4919}]
-   Line: 'Corporate Responsibility', Bounding box [{'x': 823, 'y': 5008}, {'x': 1091, 'y': 5013}, {'x': 1090, 'y': 5048}, {'x': 823, 'y': 5044}]
-   Line: 'Can't find what you're looking for?', Bounding box [{'x': 489, 'y': 5320}, {'x': 1430, 'y': 5322}, {'x': 1430, 'y': 5395}, {'x': 489, 'y': 5394}]
-   Line: 'You can contact our Customer Contact Centre or simply Book a Meeting at your preferred Hellenic Bank', Bounding box [{'x': 437, 'y': 5400}, {'x': 1479, 'y': 5401}, {'x': 1479, 'y': 5445}, {'x': 437, 'y': 5443}]
-   Line: 'Contact us', Bounding box [{'x': 761, 'y': 5564}, {'x': 889, 'y': 5564}, {'x': 888, 'y': 5594}, {'x': 761, 'y': 5593}]
-   Line: 'Book a Meeting', Bounding box [{'x': 985, 'y': 5563}, {'x': 1150, 'y': 5565}, {'x': 1150, 'y': 5598}, {'x': 985, 'y': 5596}]
-   Line: 'MMEDIATE HELE', Bounding box [{'x': 238, 'y': 5964}, {'x': 361, 'y': 5964}, {'x': 361, 'y': 5986}, {'x': 238, 'y': 5986}]
-   Line: 'DIGITAL CHANNELS', Bounding box [{'x': 535, 'y': 5960}, {'x': 695, 'y': 5963}, {'x': 694, 'y': 5994}, {'x': 535, 'y': 5991}]
-   Line: 'USEFUL INFORMATION', Bounding box [{'x': 837, 'y': 5964}, {'x': 1009, 'y': 5964}, {'x': 1009, 'y': 5988}, {'x': 837, 'y': 5987}]
-   Line: 'Security Centre', Bounding box [{'x': 234, 'y': 6025}, {'x': 374, 'y': 6031}, {'x': 373, 'y': 6065}, {'x': 234, 'y': 6061}]
-   Line: 'Digital Wallet', Bounding box [{'x': 532, 'y': 6021}, {'x': 641, 'y': 6021}, {'x': 641, 'y': 6057}, {'x': 532, 'y': 6057}]
-   Line: 'Cookie policy', Bounding box [{'x': 830, 'y': 6014}, {'x': 942, 'y': 6018}, {'x': 941, 'y': 6059}, {'x': 828, 'y': 6054}]
-   Line: 'Customer support', Bounding box [{'x': 1367, 'y': 5994}, {'x': 1558, 'y': 5997}, {'x': 1557, 'y': 6031}, {'x': 1366, 'y': 6030}]
-   Line: 'Lost or stolen card', Bounding box [{'x': 225, 'y': 6055}, {'x': 391, 'y': 6058}, {'x': 391, 'y': 6089}, {'x': 225, 'y': 6088}]
-   Line: 'All the answers you need', Bounding box [{'x': 1367, 'y': 6025}, {'x': 1589, 'y': 6026}, {'x': 1589, 'y': 6061}, {'x': 1367, 'y': 6060}]
-   Line: 'Succoctione e comple', Bounding box [{'x': 231, 'y': 6079}, {'x': 413, 'y': 6079}, {'x': 413, 'y': 6113}, {'x': 231, 'y': 6114}]
-   Line: 'ATMS', Bounding box [{'x': 529, 'y': 6059}, {'x': 615, 'y': 6063}, {'x': 612, 'y': 6092}, {'x': 526, 'y': 6092}]
-   Line: 'Online banking', Bounding box [{'x': 527, 'y': 6066}, {'x': 653, 'y': 6072}, {'x': 649, 'y': 6136}, {'x': 525, 'y': 6128}]
-   Line: 'Auctions', Bounding box [{'x': 835, 'y': 6037}, {'x': 942, 'y': 6043}, {'x': 937, 'y': 6113}, {'x': 828, 'y': 6106}]
-   Line: 'Suggestions & Complaints', Bounding box [{'x': 228, 'y': 6098}, {'x': 447, 'y': 6097}, {'x': 448, 'y': 6131}, {'x': 228, 'y': 6135}]
-   Line: 'Calculators', Bounding box [{'x': 234, 'y': 6121}, {'x': 327, 'y': 6121}, {'x': 330, 'y': 6153}, {'x': 231, 'y': 6153}]
-   Line: 'Exchange Rates', Bounding box [{'x': 823, 'y': 6101}, {'x': 989, 'y': 6103}, {'x': 988, 'y': 6141}, {'x': 823, 'y': 6140}]
-   Line: 'Calculators', Bounding box [{'x': 231, 'y': 6144}, {'x': 337, 'y': 6147}, {'x': 337, 'y': 6183}, {'x': 234, 'y': 6187}]
-   Line: 'Mobile App', Bounding box [{'x': 530, 'y': 6121}, {'x': 633, 'y': 6124}, {'x': 630, 'y': 6157}, {'x': 530, 'y': 6157}]
-   Line: 'Shareholder Information', Bounding box [{'x': 823, 'y': 6125}, {'x': 1031, 'y': 6130}, {'x': 1030, 'y': 6165}, {'x': 823, 'y': 6164}]
-   Line: 'Cut-off times', Bounding box [{'x': 219, 'y': 6170}, {'x': 343, 'y': 6170}, {'x': 343, 'y': 6205}, {'x': 220, 'y': 6206}]
-   Line: 'Mobile App', Bounding box [{'x': 536, 'y': 6147}, {'x': 653, 'y': 6148}, {'x': 653, 'y': 6177}, {'x': 536, 'y': 6176}]
-   Line: 'Customer Review - KY', Bounding box [{'x': 234, 'y': 6191}, {'x': 415, 'y': 6193}, {'x': 415, 'y': 6229}, {'x': 234, 'y': 6228}]
-   Line: 'Forgot login details', Bounding box [{'x': 526, 'y': 6168}, {'x': 690, 'y': 6172}, {'x': 690, 'y': 6200}, {'x': 526, 'y': 6199}]
-   Line: 'Shareholder', Bounding box [{'x': 819, 'y': 6140}, {'x': 942, 'y': 6144}, {'x': 942, 'y': 6183}, {'x': 819, 'y': 6187}]
-   Line: 'Charges', Bounding box [{'x': 828, 'y': 6170}, {'x': 927, 'y': 6174}, {'x': 924, 'y': 6206}, {'x': 828, 'y': 6206}]
-   Line: 'Book a Meeting', Bounding box [{'x': 1376, 'y': 6147}, {'x': 1549, 'y': 6151}, {'x': 1548, 'y': 6184}, {'x': 1376, 'y': 6181}]
-   Line: 'Customer Review - KYC', Bounding box [{'x': 231, 'y': 6215}, {'x': 441, 'y': 6214}, {'x': 442, 'y': 6243}, {'x': 231, 'y': 6248}]
-   Line: 'Foo Informe', Bounding box [{'x': 824, 'y': 6193}, {'x': 934, 'y': 6193}, {'x': 934, 'y': 6225}, {'x': 824, 'y': 6225}]
-   Line: 'Schedule an Online or Branch meeting', Bounding box [{'x': 1366, 'y': 6165}, {'x': 1691, 'y': 6172}, {'x': 1691, 'y': 6202}, {'x': 1365, 'y': 6199}]
-   Line: 'Dispute Resolution Procedure', Bounding box [{'x': 231, 'y': 6238}, {'x': 472, 'y': 6243}, {'x': 471, 'y': 6271}, {'x': 231, 'y': 6267}]
-   Line: 'Fee Information Documents', Bounding box [{'x': 824, 'y': 6212}, {'x': 1065, 'y': 6212}, {'x': 1066, 'y': 6244}, {'x': 824, 'y': 6248}]
-   Line: 'Base Rates', Bounding box [{'x': 822, 'y': 6239}, {'x': 949, 'y': 6240}, {'x': 949, 'y': 6276}, {'x': 822, 'y': 6275}]
-   Line: 'Base Rates', Bounding box [{'x': 821, 'y': 6258}, {'x': 941, 'y': 6258}, {'x': 941, 'y': 6294}, {'x': 821, 'y': 6294}]
-   Line: 'irective on Arrears', Bounding box [{'x': 842, 'y': 6284}, {'x': 992, 'y': 6284}, {'x': 992, 'y': 6313}, {'x': 842, 'y': 6313}]
+Text: 'Om® HELLENIC BANK', Bounding box: (132, 33, 564, 78)
+Text: 'PERSONAL BUSINESS INTERNATIONAL THE GROUP GR', Bounding box: (1279, 46, 1782, 73)
+Text: 'Accounts Cards Loans Green Products Digital Banking Wealth Insurance', Bounding box: (144, 115, 1085, 152)
+Text: 'Q & Online Banking', Bounding box: (1426, 115, 1790, 153)
+Text: 'Save time,', Bounding box: (138, 378, 520, 456)
+Text: 'start online', Bounding box: (131, 473, 565, 545)
+Text: 'We have you covered. Skip the wait and apply online', Bounding box: (126, 575, 663, 616)
+Text: 'Learn More', Bounding box: (173, 700, 287, 737)
+Text: '8 metra tour', Bounding box: (1069, 673, 1155, 713)
+Text: 'GREEN CAR', Bounding box: (1593, 877, 1632, 1005)
+Text: 'MOBILE LENDING PRODUCTS', Bounding box: (860, 677, 896, 1025)
+Text: 'HOUSING LOANS', Bounding box: (1462, 774, 1518, 1026)
+Text: 'CREDIT CARDS', Bounding box: (1707, 777, 1758, 1042)
+Text: '-', Bounding box: (939, 1117, 978, 1188)
+Text: 'Be digital', Bounding box: (772, 1260, 1140, 1342)
+Text: 'We've got you covered', Bounding box: (637, 1372, 1265, 1440)
+Text: 'Online Banking', Bounding box: (178, 1564, 440, 1605)
+Text: 'Mobile Banking', Bounding box: (1026, 1568, 1273, 1608)
+Text: 'The smart way to tap into your', Bounding box: (169, 1676, 505, 1713)
+Text: 'manage your day-to-day banking', Bounding box: (181, 1722, 528, 1762)
+Text: 'you to manage your accounts,.', Bounding box: (1017, 1708, 1341, 1748)
+Text: 'online from anyplace at any time.', Bounding box: (184, 1753, 527, 1782)
+Text: 'make transfers and pay your bills', Bounding box: (1019, 1728, 1348, 1764)
+Text: 'online from anyplace, a', Bounding box: (190, 1765, 418, 1795)
+Text: 'at home or on the go . Our', Bounding box: (1016, 1749, 1327, 1787)
+Text: 'featured videos quide you on how', Bounding box: (1012, 1775, 1364, 1814)
+Text: 'featured videos guide you on hov', Bounding box: (1016, 1799, 1355, 1835)
+Text: 'you can make use of our most', Bounding box: (1014, 1818, 1337, 1854)
+Text: 'popular features.', Bounding box: (1023, 1843, 1206, 1882)
+Text: 'Learn More >', Bounding box: (184, 1920, 355, 1949)
+Text: 'Learn More >', Bounding box: (1026, 1911, 1193, 1944)
+Text: 'Digital Wallets', Bounding box: (181, 2075, 424, 2118)
+Text: 'Mple Rewards Scheme', Bounding box: (1152, 2073, 1541, 2117)
+Text: 'The smart way to pay with your', Bounding box: (179, 2188, 523, 2223)
+Text: 'smartphone . Add your Hellenic Bank', Bounding box: (183, 2212, 569, 2249)
+Text: 'Pay with your Hellenic Bank card at m', Bounding box: (1136, 2187, 1534, 2222)
+Text: 'cards to your smartphone or smartwatch', Bounding box: (172, 2231, 588, 2269)
+Text: 'participating scheme and earn cashback in your Mple', Bounding box: (1148, 2208, 1688, 2250)
+Text: 't and simple contactless', Bounding box: (315, 2260, 596, 2292)
+Text: 'Rewards app.', Bounding box: (1145, 2231, 1318, 2269)
+Text: 'and make fast and simple contactless', Bounding box: (176, 2273, 573, 2314)
+Text: 'payments.', Bounding box: (187, 2302, 290, 2331)
+Text: 'Learn More >', Bounding box: (181, 2371, 339, 2404)
+Text: 'Learn More >', Bounding box: (1150, 2376, 1324, 2405)
+Text: 'We are here to help you every step of the way', Bounding box: (129, 2606, 1392, 2676)
+Text: 'Choose the account that suits you', Bounding box: (134, 2686, 498, 2728)
+Text: 'Basic', Bounding box: (293, 2809, 358, 2845)
+Text: 'Current Joint', Bounding box: (389, 2812, 562, 2850)
+Text: 'Basic Account', Bounding box: (282, 2968, 521, 3010)
+Text: 'Daily Banking, Made Easy.', Bounding box: (272, 3068, 537, 3104)
+Text: 'Our Basic Account gives you the essentials needed', Bounding box: (278, 3128, 794, 3170)
+Text: 'v-to-day banking with inst', Bounding box: (336, 3145, 636, 3186)
+Text: 'Open an Account', Bounding box: (296, 3286, 493, 3323)
+Text: 'Learn more ->', Bounding box: (550, 3290, 726, 3315)
+Text: 'Banking made simple', Bounding box: (964, 3687, 1329, 3737)
+Text: 'My accounts', Bounding box: (381, 3716, 450, 3730)
+Text: 'Keep on top of your finances and view al', Bounding box: (960, 3783, 1378, 3826)
+Text: 'cards and loans online. Check your account balances, view', Bounding box: (973, 3812, 1604, 3852)
+Text: 'transactions, make payments, set up Time Deposits, transfers and', Bounding box: (967, 3829, 1638, 3873)
+Text: 'ware_ cons, make payments,', Bounding box: (969, 3850, 1272, 3892)
+Text: 'Register Online', Bounding box: (1007, 3996, 1164, 4039)
+Text: 'We believe in', Bounding box: (491, 4435, 1415, 4571)
+Text: 'a greener world', Bounding box: (405, 4622, 1502, 4779)
+Text: 'enic Bank Mastercard cards are made from biodegradable, environme', Bounding box: (576, 4829, 1268, 4869)
+Text: 'material, requiring 82% less PVC to produce. In the coming year, the same green practice will', Bounding box: (484, 4858, 1426, 4904)
+Text: 'be applied to all biodegradable Visa cards as well .', Bounding box: (666, 4884, 1225, 4919)
+Text: 'Corporate Responsibility', Bounding box: (823, 5008, 1091, 5048)
+Text: 'Can't find what you're looking for?', Bounding box: (489, 5320, 1430, 5395)
+Text: 'You can contact our Customer Contact Centre or simply Book a Meeting at your preferred Hellenic Bank', Bounding box: (437, 5400, 1479, 5445)
+Text: 'Contact us', Bounding box: (761, 5564, 889, 5594)
+Text: 'Book a Meeting', Bounding box: (985, 5563, 1150, 5598)
+Text: 'MMEDIATE HELE', Bounding box: (238, 5964, 361, 5986)
+Text: 'DIGITAL CHANNELS', Bounding box: (535, 5960, 695, 5994)
+Text: 'USEFUL INFORMATION', Bounding box: (837, 5964, 1009, 5988)
+Text: 'Security Centre', Bounding box: (234, 6025, 374, 6065)
+Text: 'Digital Wallet', Bounding box: (532, 6021, 641, 6057)
+Text: 'Cookie policy', Bounding box: (828, 6014, 942, 6059)
+Text: 'Customer support', Bounding box: (1366, 5994, 1558, 6031)
+Text: 'Lost or stolen card', Bounding box: (225, 6055, 391, 6089)
+Text: 'All the answers you need', Bounding box: (1367, 6025, 1589, 6061)
+Text: 'Succoctione e comple', Bounding box: (231, 6079, 413, 6114)
+Text: 'ATMS', Bounding box: (526, 6059, 615, 6092)
+Text: 'Online banking', Bounding box: (525, 6066, 653, 6136)
+Text: 'Auctions', Bounding box: (828, 6037, 942, 6113)
+Text: 'Suggestions & Complaints', Bounding box: (228, 6097, 448, 6135)
+Text: 'Calculators', Bounding box: (231, 6121, 330, 6153)
+Text: 'Exchange Rates', Bounding box: (823, 6101, 989, 6141)
+Text: 'Calculators', Bounding box: (231, 6144, 337, 6187)
+Text: 'Mobile App', Bounding box: (530, 6121, 633, 6157)
+Text: 'Shareholder Information', Bounding box: (823, 6125, 1031, 6165)
+Text: 'Cut-off times', Bounding box: (219, 6170, 343, 6206)
+Text: 'Mobile App', Bounding box: (536, 6147, 653, 6177)
+Text: 'Customer Review - KY', Bounding box: (234, 6191, 415, 6229)
+Text: 'Forgot login details', Bounding box: (526, 6168, 690, 6200)
+Text: 'Shareholder', Bounding box: (819, 6140, 942, 6187)
+Text: 'Charges', Bounding box: (828, 6170, 927, 6206)
+Text: 'Book a Meeting', Bounding box: (1376, 6147, 1549, 6184)
+Text: 'Customer Review - KYC', Bounding box: (231, 6214, 442, 6248)
+Text: 'Foo Informe', Bounding box: (824, 6193, 934, 6225)
+Text: 'Schedule an Online or Branch meeting', Bounding box: (1365, 6165, 1691, 6202)
+Text: 'Dispute Resolution Procedure', Bounding box: (231, 6238, 472, 6271)
+Text: 'Fee Information Documents', Bounding box: (824, 6212, 1066, 6248)
+Text: 'Base Rates', Bounding box: (822, 6239, 949, 6276)
+Text: 'Base Rates', Bounding box: (821, 6258, 941, 6294)
+Text: 'irective on Arrears', Bounding box: (842, 6284, 992, 6313)
+Text: 'Management', Bounding box: (829, 6304, 956, 6330)
+Text: '8000 9999 or +357 22500500', Bounding box: (1370, 6291, 1704, 6323)
+Text: 'EXCI. bank holiday18:00 Sat: 09:00 - 14:00', Bounding box: (1377, 6320, 1738, 6369)
+Text: 'Legal Privacy Notice Terms & Conditions Cookie Settings f @ D', Bounding box: (224, 6458, 938, 6491)
