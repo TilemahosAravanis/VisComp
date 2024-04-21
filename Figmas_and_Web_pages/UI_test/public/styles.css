@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #4F8FF7, #5BD0FF);
+    min-height: 100vh;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 30px;
+    background-color: #4F8FF7;
+    color: #fff;
+    border-radius: 10px 10px 0 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /*font size */
+    font-size: 30px;
+    font-family: "Arial Black", sans-serif;
+}
+
+/*.container {*/
+/*    width:67%;*/
+/*    !*max-width: 800px;*!*/
+/*    margin: 25px auto;*/
+/*    padding: 100px;*/
+/*    background-color: rgba(255, 255, 255, 0.8);*/
+/*    border-radius: 10px;*/
+/*    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+/*    display: flex;*/
+/*    flex-direction: column; !* Adjusted to column layout *!*/
+/*}*/
+
+.text-container {
+    flex: 1;
+    padding: 20px;
+    background-color: rgba(128, 128, 128, 0.5);
+    border-radius: 10px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text-frame {
+    /*height: 100%;*/
+    overflow: auto;
+    border: 2px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+}
+
+.images-container {
+    display: flex;
+    justify-content: space-between; /* Adjusted to space between images */
+}
+
+.image-frame {
+    flex: 0 0 calc(50% - 50px); /* Adjusted to 50% width with margin */
+    border: 2px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    /*back ground color a mild grey b9bdc7 */
+    background-color: rgba(185, 189, 199, 0.9);
+    border-radius: 10px;
+}
+
+.image-heading {
+    font-family: "Arial Black", sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 10px;
+/*    color almost very dark grey*/
+    color: rgb(23, 0, 68);
+}
+
+.image-frame img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #4F8FF7;
+    color: #fff;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 10px;
+    font-family: "Arial Black", sans-serif;
+}
+

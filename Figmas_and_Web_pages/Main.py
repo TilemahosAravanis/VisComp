@@ -10,26 +10,28 @@ import numpy as np
 if __name__ == "__main__":
 
     pages = ['Hellenic_Cyprus_Bank'] # 'DEH' 'Hau',
-    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # script_dir = os.path.dirname(os.path.abspath(__file__))
+    # scrip dir on mac format
+    script_dir = '/Users/John/Makeathon/Figmas_and_Web_pages/UI_test/public/images'
     for page in pages:
         ### OCR ANALYSIS ###
         ## TODO: incorporate font analysis
         ### get files location
-        web_png = os.path.join(script_dir,page,"Web_page.png")
-        figma_png = os.path.join(script_dir,page,"Figma_design.png")
+        web_png = os.path.join(script_dir,"Web_page.png")
+        figma_png = os.path.join(script_dir,"Figma_design.png")
 
         ### get OCR client
         client = get_client()
 
         ### get Web and Figma OCR results in JSON format
-        web_results = analyze_image(client,web_png,None,os.path.join(script_dir,page,"web_res.txt"),False)
-        figma_results = analyze_image(client,figma_png,None,os.path.join(script_dir,page,"figma_res.txt"),True)
+        web_results = analyze_image(client,web_png,None,os.path.join(script_dir,"web_res.txt"),False)
+        figma_results = analyze_image(client,figma_png,None,os.path.join(script_dir,"figma_res.txt"),True)
 
         ### compare results and get errors JSON
         ocr_errors = compare_results(web_results,figma_results)
 
         ### NLP ANALYSIS
-        # open method used to open different extension image file 
+        # open method used to open different extension image file
         im1 = Image.open(figma_png).convert('RGB')
         im2 = Image.open(web_png).convert('RGB')
 
@@ -48,9 +50,14 @@ if __name__ == "__main__":
         '''
          Here I am returning detecting backround color mismatch in text response from the LLM
         '''
-        # png1 = os.path.join(script_dir,page,"Segmented_Figma_design.png")      #f"./{str(page)}/Segmented_Figma_design.png"
-        # png2 = os.path.join(script_dir,page,"Segmented_Web_design.png")         #f"./{str(page)}/Segmented_Web_page.png"
-        # prompt = 'I provide two images. Please list any differences in the color of the two images. Ignore any noise in the background.'
-        # differences = find_differences(png1, png2, prompt)
+        png1 = os.path.join(script_dir,"Figma_design.png")      #f"./{str(page)}/Segmented_Figma_design.png"
+        png2 = os.path.join(script_dir,"Web_page.png")         #f"./{str(page)}/Segmented_Web_page.png"
+        prompt = 'I provide two images. The first image is the Design of a website. The second image is the implementation of the website. Please list any differences of the two images.'
+        differences = find_differences(png1, png2, prompt)
 
-        # print(differences)
+
+        # save diffrerences to a  txt file
+        with open(os.path.join(script_dir,"differences.txt"), 'w') as f:
+            f.write(f"Images Similarity Score: {Compute_cosine(im1,im2)*100}%")
+            f.write(str(differences['content'][0]['text']))
+

@@ -1,0 +1,13 @@
+Upon comparing the two images, I can identify the following differences:
+
+1. The header section in the implemented website includes a featured content area showcasing a person's image along with information about a CISM certification, which is not present in the design image.
+
+2. The implemented website has additional sections for "Events" and "News" below the main content area, displaying information about upcoming events, exam results, and other announcements. These sections are not included in the design image.
+
+3. The layout and placement of some elements differ slightly between the two images. For instance, the "Training," "Learning," and "Exams" sections are arranged in a different order in the implemented website compared to the design.
+
+4. The design image includes placeholders for sections like "Results," "Seminars," "Certifications," "Michigan," "Cultural Publications," "Moments," "Cambridge," and "English Courses," which are not visible in the implemented website shown in the second image.
+
+5. The color scheme and visual styling of certain elements, such as the green wavy lines and the background colors, appear to be slightly different between the two images.
+
+Overall, while the core structure and content of the website remain similar, the implemented version seems to have undergone some modifications and additions compared to the initial design mockup.
