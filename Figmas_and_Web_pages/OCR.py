@@ -18,8 +18,8 @@ except KeyError:
     print("Set them before running this sample.")
     exit()
 
-# Create an Image Analysis client for synchronous operations
-client = ImageAnalysisClient(
+def get_client():
+    return ImageAnalysisClient(
     endpoint=endpoint,
     credential=AzureKeyCredential(key)
 )
@@ -52,7 +52,7 @@ FIGMA_WIDTH=0
 FIGMA_HEIGHT=0
 WEB_WIDTH=0
 WEB_HEIGHT=0
-def analyze_image(path_to_img,path_to_crops,path_to_res,designer=True,conf_thresh=0.8):
+def analyze_image(client,path_to_img,path_to_crops,path_to_res,designer=True,conf_thresh=0.8):
     global FIGMA_HEIGHT
     global FIGMA_WIDTH
     global WEB_HEIGHT
@@ -96,14 +96,15 @@ def analyze_image(path_to_img,path_to_crops,path_to_res,designer=True,conf_thres
     return results
 
 def concat_json(image_results, font_results):
-    final = {}
+    final = []
     for res1 in image_results:
         for res2 in font_results:
             if res1['crop_path'] == res2['crop_path']:
-                final = {'text':res1['text'],
+                new = {'text':res1['text'],
                          'box':res1['box'],
                          'crop_path':res1['crop_path'],
                          'fonts':res2['fonts']}
+                final.append(new)
     return final
 
 def draw_boxes(path_to_png:str,errors:list):
@@ -160,10 +161,10 @@ def compare_results(web_final, figma_final, rel_thres_x=0.1, rel_thres_y=0.01):
             error = {'box':web_line['box'],'type':'text error'}
             errors.append(error)
         
-    print(f'Total errors per lines: {text_errors}/{len(web_final)} text errors, {pos_error}/{len(web_final)} pos errors.')
+    #print(f'Total errors per lines: {text_errors}/{len(web_final)} text errors, {pos_error}/{len(web_final)} pos errors.')
     return errors
 
-path_to_dir = "C:\\Users\\munro\\OneDrive\\Υπολογιστής\\makeathon\\Makeathon\\Figmas_and_Web_pages"
+"""path_to_dir = "C:\\Users\\munro\\OneDrive\\Υπολογιστής\\makeathon\\Makeathon\\Figmas_and_Web_pages"
 web_img_results = analyze_image(f"{path_to_dir}\\Web_page.png",f"{path_to_dir}\\web_crops",f"{path_to_dir}\\web_res.txt", False, conf_thresh=0.9)
 figma_img_result = analyze_image(f"{path_to_dir}\\Figma_design.png",f"{path_to_dir}\\figma_crops",f"{path_to_dir}\\figma_res.txt", True, conf_thresh=0.9)
 
@@ -175,7 +176,7 @@ boxes = [d['box'] for d in errors]
 
 draw_boxes(f"{path_to_dir}\\Web_page.png",errors)
 
-print('Done!')
+print('Done!')"""
 
 
 """
