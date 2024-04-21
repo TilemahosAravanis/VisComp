@@ -9,7 +9,7 @@ import numpy as np
 
 if __name__ == "__main__":
 
-    pages = ['Hau'] # 'DEH' 'Hau',
+    pages = ['Hellenic_Cyprus_Bank'] # 'DEH' 'Hau',
     script_dir = os.path.dirname(os.path.abspath(__file__))
     for page in pages:
         ### OCR ANALYSIS ###
@@ -28,9 +28,6 @@ if __name__ == "__main__":
         ### compare results and get errors JSON
         ocr_errors = compare_results(web_results,figma_results)
 
-        ### draw errors to 'Web_page_with_errors.png'
-        draw_boxes(web_png,ocr_errors)
-
         ### NLP ANALYSIS
         # open method used to open different extension image file 
         im1 = Image.open(figma_png).convert('RGB')
@@ -42,17 +39,18 @@ if __name__ == "__main__":
         '''
          Here I am returning Image errors as a list of ('Image error', box)
         '''
-        list = Object_detection(im1, im2)
+        image_errors = Object_detection(im1, im2, web_png, figma_png)
 
-        print(list)
-
+        errors = ocr_errors + image_errors
+        ### draw errors to 'Web_page_with_errors.png'
+        draw_boxes(web_png,errors)
 
         '''
          Here I am returning detecting backround color mismatch in text response from the LLM
         '''
-        png1 = os.path.join(script_dir,page,"Segmented_Figma_design.png")      #f"./{str(page)}/Segmented_Figma_design.png"
-        png2 = os.path.join(script_dir,page,"Segmented_Web_design.png")         #f"./{str(page)}/Segmented_Web_page.png"
-        prompt = 'I provide two images. Please list any differences in the color of the two images. Ignore any noise in the background.'
-        differences = find_differences(png1, png2, prompt)
+        # png1 = os.path.join(script_dir,page,"Segmented_Figma_design.png")      #f"./{str(page)}/Segmented_Figma_design.png"
+        # png2 = os.path.join(script_dir,page,"Segmented_Web_design.png")         #f"./{str(page)}/Segmented_Web_page.png"
+        # prompt = 'I provide two images. Please list any differences in the color of the two images. Ignore any noise in the background.'
+        # differences = find_differences(png1, png2, prompt)
 
-        print(differences)
+        # print(differences)

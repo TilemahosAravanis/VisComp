@@ -91,7 +91,7 @@ def analyze_image(client,path_to_img,path_to_crops,path_to_res,designer=True,con
                     data = {'text':word.text, 'box':box, 'crop_path':path_to_crop}
                     results.append(data)
                     idx+=1
-                    print(f"Text: '{word.text}', Bounding box: {box}\n")
+                    #print(f"Text: '{word.text}', Bounding box: {box}\n")
                     res_file.write(f"Text: '{word.text}', Bounding box: {box}, Conf: {word.confidence}\n")
     return results
 
@@ -145,7 +145,8 @@ def compare_results(web_final, figma_final, rel_thres_x=0.1, rel_thres_y=0.01):
                     del temp_figma_final[i]
                     break
                 '''else:
-                    #print(web_line['text'])
+                    
+                
                     pos_error += 1
                     error = {'box':web_line['box'],'type':'pos error'}
                     errors.append(error)'''

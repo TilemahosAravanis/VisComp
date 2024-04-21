@@ -7,12 +7,12 @@ from Image_Similarity import Compute_cosine
 
 def crop_image(image_path, bounding_box):
     # Open the image
-    image = Image.open(image_path)    # Crop the image using the bounding box coordinates
+    image = Image.open(image_path).convert('RGB')    # Crop the image using the bounding box coordinates
     cropped_image = image.crop(bounding_box)    # Save the cropped image
     
     return cropped_image
 
-def Object_detection(im1, im2):
+def Object_detection(im1, im2, web_png, figma_png):
     image_processor = AutoImageProcessor.from_pretrained('facebook/detr-resnet-101-dc5')
     model = DetrForObjectDetection.from_pretrained('facebook/detr-resnet-101-dc5')
 
@@ -35,20 +35,20 @@ def Object_detection(im1, im2):
     res = []
     for score, label, box2 in zip(results2["scores"], results2["labels"], results2["boxes"]):
         
-        box2 = [round(i, 2) for i in box2.tolist()]
-        im2 = crop_image('./Hellenic Cyprus Bank/Web_page.png', tuple(box2))
+        box2 = [int(i) for i in box2.tolist()]
+        im2 = crop_image(web_png, tuple(box2))
         
         flag = True
         for score, label, box1 in zip(results1["scores"], results1["labels"], results1["boxes"]):
 
-            box1 = [round(i, 2) for i in box1.tolist()]
-            im2 = crop_image('./Hellenic Cyprus Bank/Figma_design.png', tuple(box1))
+            box1 = [int(i) for i in box1.tolist()]
+            im1 = crop_image(figma_png, tuple(box1))
 
             if (Compute_cosine(im1,im2) > 0.6):
                 flag = False
                 break
         
         if (flag):        
-            res.append("Image error", box2)
+            res.append({'box':tuple(box2),'type':'Image error'})
 
     return res
