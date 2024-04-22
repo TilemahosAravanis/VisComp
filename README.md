@@ -1,3 +1,4 @@
+#VisComp 
 The winning implementation of the 2024 [Makeathon](https://makeathon.uniai.gr/en/home-en/) (AI Hackathon) by UniAI. 
 
 Challenge by Company: [Linakis.digital](https://www.linakis.com/en) 
