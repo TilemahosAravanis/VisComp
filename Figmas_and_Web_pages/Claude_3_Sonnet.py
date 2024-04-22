@@ -6,7 +6,7 @@ import json
 def find_differences(png1, png2, prompt):
 
     runtime = boto3.client("bedrock-runtime", region_name='your_region_here', aws_access_key_id='YOUR_ACCESS_KEY_HERE', 
-                           aws_secret_access_key='secret_key_here')
+                           aws_secret_access_key='YOUR_SECRET_KEY_HERE')
 
     with open(png1, "rb") as im1:
         im1_bytes = im1.read()

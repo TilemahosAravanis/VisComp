@@ -11,7 +11,7 @@ def detect_font_style(filename):
     base64_encoded = base64.b64encode(image).decode('utf-8')
 
     PARAMETERS ={
-        "API_KEY": "YOUR_KEY_HERE",
+        "API_KEY": "YOUR_API_KEY_HERE',
         "IMAGEBASE64": 1,
         "NOTTEXTBOXDETECTION": 0,
         "urlimagebase64": "",
