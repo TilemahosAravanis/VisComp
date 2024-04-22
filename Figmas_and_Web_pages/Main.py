@@ -10,10 +10,12 @@ import numpy as np
 if __name__ == "__main__":
 
     pages = ['Hellenic_Cyprus_Bank'] # 'DEH' 'Hau',
-    # script_dir = os.path.dirname(os.path.abspath(__file__))
+    
     # scrip dir on mac format
-    script_dir = '/Users/John/Makeathon/Figmas_and_Web_pages/UI_test/public/images'
+    # script_dir = '/Users/John/Makeathon/Figmas_and_Web_pages/UI_test/public/images'
+    script_dir = os.getcwd()
     for page in pages:
+        script_dir = os.path.join(script_dir, page)
         ### OCR ANALYSIS ###
         ## TODO: incorporate font analysis
         ### get files location
@@ -30,7 +32,7 @@ if __name__ == "__main__":
         ### compare results and get errors JSON
         ocr_errors = compare_results(web_results,figma_results)
 
-        ### NLP ANALYSIS
+        ### GLOBAL SIMILARITY SCORE
         # open method used to open different extension image file
         im1 = Image.open(figma_png).convert('RGB')
         im2 = Image.open(web_png).convert('RGB')
@@ -41,17 +43,20 @@ if __name__ == "__main__":
         '''
          Here I am returning Image errors as a list of ('Image error', box)
         '''
+        ### Object Detection
         image_errors = Object_detection(im1, im2, web_png, figma_png)
 
         errors = ocr_errors + image_errors
         ### draw errors to 'Web_page_with_errors.png'
         draw_boxes(web_png,errors)
 
+        
         '''
-         Here I am returning detecting backround color mismatch in text response from the LLM
+         Here I am detecting global differences in text response from the LLM
         '''
-        png1 = os.path.join(script_dir,"Figma_design.png")      #f"./{str(page)}/Segmented_Figma_design.png"
-        png2 = os.path.join(script_dir,"Web_page.png")         #f"./{str(page)}/Segmented_Web_page.png"
+        ### NLP ANALYSIS
+        png1 = os.path.join(script_dir,"Figma_design.png")     
+        png2 = os.path.join(script_dir,"Web_page.png")
         prompt = 'I provide two images. The first image is the Design of a website. The second image is the implementation of the website. Please list any differences of the two images.'
         differences = find_differences(png1, png2, prompt)
 
